@@ -1,0 +1,529 @@
+{
+    "identification": {
+        "id": "3457a2f8",
+        "row": 5484009481,
+        "number": {
+            "default": "CZ6745",
+            "alternative": null
+        },
+        "callsign": "CSN6745"
+    },
+    "status": {
+        "live": true,
+        "text": "Scheduled",
+        "icon": null,
+        "estimated": null,
+        "ambiguous": false,
+        "generic": {
+            "status": {
+                "text": "scheduled",
+                "color": "gray",
+                "type": "arrival"
+            }
+        }
+    },
+    "level": "limited",
+    "promote": false,
+    "aircraft": {
+        "model": {
+            "code": "A20N",
+            "text": "Airbus A320-251N"
+        },
+        "countryId": 46,
+        "registration": "B-301Y",
+        "age": null,
+        "msn": null,
+        "images": {
+            "thumbnails": [
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/495364_1692194001_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11062848",
+                    "copyright": "szh",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/6/1366972_1688225325_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11013869",
+                    "copyright": "Ceylan",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/6/1252381_1690514158_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11043294",
+                    "copyright": "LYX20014",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/1209492_1691971060_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11060080",
+                    "copyright": "diqin265",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/82002_1671368320_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10818353",
+                    "copyright": "AviationOscar",
+                    "source": "Jetphotos"
+                }
+            ],
+            "medium": [
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/495364_1692194001.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11062848",
+                    "copyright": "szh",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/6/1366972_1688225325.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11013869",
+                    "copyright": "Ceylan",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/6/1252381_1690514158.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11043294",
+                    "copyright": "LYX20014",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/1209492_1691971060.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11060080",
+                    "copyright": "diqin265",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/82002_1671368320.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10818353",
+                    "copyright": "AviationOscar",
+                    "source": "Jetphotos"
+                }
+            ],
+            "large": [
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/495364_1692194001.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11062848",
+                    "copyright": "szh",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/6/1366972_1688225325.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11013869",
+                    "copyright": "Ceylan",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/6/1252381_1690514158.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11043294",
+                    "copyright": "LYX20014",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/1209492_1691971060.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11060080",
+                    "copyright": "diqin265",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/82002_1671368320.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10818353",
+                    "copyright": "AviationOscar",
+                    "source": "Jetphotos"
+                }
+            ]
+        },
+        "hex": "7814fb"
+    },
+    "airline": {
+        "name": "China Southern Airlines",
+        "short": "China Southern Airlines",
+        "code": {
+            "iata": "CZ",
+            "icao": "CSN"
+        },
+        "url": "china-southern-airlines-csn"
+    },
+    "owner": null,
+    "airspace": null,
+    "airport": {
+        "origin": {
+            "name": "Xiamen Gaoqi International Airport",
+            "code": {
+                "iata": "XMN",
+                "icao": "ZSAM"
+            },
+            "position": {
+                "latitude": 24.544029,
+                "longitude": 118.127701,
+                "altitude": 59,
+                "country": {
+                    "id": null,
+                    "name": "China",
+                    "code": "CHN"
+                },
+                "region": {
+                    "city": "Xiamen"
+                }
+            },
+            "timezone": {
+                "name": "Asia/Shanghai",
+                "offset": 28800,
+                "offsetHours": "8:00",
+                "abbr": "CST",
+                "abbrName": "China Standard Time",
+                "isDst": false
+            },
+            "visible": true,
+            "website": null,
+            "info": {
+                "terminal": null,
+                "baggage": null,
+                "gate": null
+            }
+        },
+        "destination": null,
+        "real": null
+    },
+    "flightHistory": {
+        "aircraft": [
+            {
+                "identification": {
+                    "id": "34573413",
+                    "number": {
+                        "default": "CZ6745"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Changchun Longjia International Airport",
+                        "code": {
+                            "iata": "CGQ",
+                            "icao": "ZYCC"
+                        },
+                        "position": {
+                            "latitude": 43.996208,
+                            "longitude": 125.685303,
+                            "altitude": 706,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Changchun"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Harbin",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Xiamen Gaoqi International Airport",
+                        "code": {
+                            "iata": "XMN",
+                            "icao": "ZSAM"
+                        },
+                        "position": {
+                            "latitude": 24.544029,
+                            "longitude": 118.127701,
+                            "altitude": 59,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Xiamen"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710289009
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "3454f659",
+                    "number": {
+                        "default": "CZ6182"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Hohhot Baita International Airport",
+                        "code": {
+                            "iata": "HET",
+                            "icao": "ZBHH"
+                        },
+                        "position": {
+                            "latitude": 40.851421,
+                            "longitude": 111.824097,
+                            "altitude": 3556,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Hohhot"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Chongqing",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Changchun Longjia International Airport",
+                        "code": {
+                            "iata": "CGQ",
+                            "icao": "ZYCC"
+                        },
+                        "position": {
+                            "latitude": 43.996208,
+                            "longitude": 125.685303,
+                            "altitude": 706,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Changchun"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Harbin",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710243800
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "345480b6",
+                    "number": {
+                        "default": "CZ6182"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Urumqi Diwopu International Airport",
+                        "code": {
+                            "iata": "URC",
+                            "icao": "ZWWW"
+                        },
+                        "position": {
+                            "latitude": 43.907101,
+                            "longitude": 87.474243,
+                            "altitude": 2125,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Urumqi"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Hohhot Baita International Airport",
+                        "code": {
+                            "iata": "HET",
+                            "icao": "ZBHH"
+                        },
+                        "position": {
+                            "latitude": 40.851421,
+                            "longitude": 111.824097,
+                            "altitude": 3556,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Hohhot"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Chongqing",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710229260
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "345415e7",
+                    "number": {
+                        "default": "CZ6181"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Hohhot Baita International Airport",
+                        "code": {
+                            "iata": "HET",
+                            "icao": "ZBHH"
+                        },
+                        "position": {
+                            "latitude": 40.851421,
+                            "longitude": 111.824097,
+                            "altitude": 3556,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Hohhot"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Chongqing",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Urumqi Diwopu International Airport",
+                        "code": {
+                            "iata": "URC",
+                            "icao": "ZWWW"
+                        },
+                        "position": {
+                            "latitude": 43.907101,
+                            "longitude": 87.474243,
+                            "altitude": 2125,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Urumqi"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710212460
+                    }
+                }
+            }
+        ]
+    },
+    "ems": null,
+    "availability": [
+        "AGE",
+        "MSN"
+    ],
+    "time": {
+        "scheduled": {
+            "departure": 0,
+            "arrival": 0
+        },
+        "real": {
+            "departure": null,
+            "arrival": null
+        },
+        "estimated": {
+            "departure": null,
+            "arrival": null
+        },
+        "other": {
+            "eta": 0,
+            "updated": 1710302766
+        },
+        "historical": {
+            "flighttime": "6282",
+            "delay": "43"
+        }
+    },
+    "trail": [
+        {
+            "lat": 24.535919,
+            "lng": 118.123138,
+            "alt": 0,
+            "spd": 0,
+            "ts": 1710302959,
+            "hd": 143
+        }
+    ],
+    "firstTimestamp": 1710302959,
+    "s": "gQlosEiztxlGA3P1rQa23IhVSqRNB5LcQs9jE7KfK_ozV0r_dgsNNWpJ_SH4bfLd"
+}

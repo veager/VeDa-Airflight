@@ -1,0 +1,743 @@
+{
+    "identification": {
+        "id": "34579a83",
+        "row": 5480844021,
+        "number": {
+            "default": "CZ6469",
+            "alternative": null
+        },
+        "callsign": "CSN6469"
+    },
+    "status": {
+        "live": true,
+        "text": "Estimated- 15:38",
+        "icon": "green",
+        "estimated": null,
+        "ambiguous": false,
+        "generic": {
+            "status": {
+                "text": "estimated",
+                "color": "green",
+                "type": "arrival"
+            },
+            "eventTime": {
+                "utc": 1710315520,
+                "local": 1710344320
+            }
+        }
+    },
+    "level": "limited",
+    "promote": false,
+    "aircraft": {
+        "model": {
+            "code": "A20N",
+            "text": "Airbus A320-251N"
+        },
+        "countryId": 46,
+        "registration": "B-301L",
+        "age": null,
+        "msn": null,
+        "images": {
+            "thumbnails": [
+                {
+                    "src": "https://cdn.jetphotos.com/200/6/999015_1707533741_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11238879",
+                    "copyright": "Wanping Chen",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/6/554589_1696852481_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11116462",
+                    "copyright": "Eric Wang",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/1405325_1695517799_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11098591",
+                    "copyright": "Wayne Song",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/1882257_1676603542_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10882272",
+                    "copyright": "LuYifeng",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/6/92352_1668078269_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10776074",
+                    "copyright": "Bear _ JA",
+                    "source": "Jetphotos"
+                }
+            ],
+            "medium": [
+                {
+                    "src": "https://cdn.jetphotos.com/400/6/999015_1707533741.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11238879",
+                    "copyright": "Wanping Chen",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/6/554589_1696852481.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11116462",
+                    "copyright": "Eric Wang",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/1405325_1695517799.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11098591",
+                    "copyright": "Wayne Song",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/1882257_1676603542.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10882272",
+                    "copyright": "LuYifeng",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/6/92352_1668078269.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10776074",
+                    "copyright": "Bear _ JA",
+                    "source": "Jetphotos"
+                }
+            ],
+            "large": [
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/6/999015_1707533741.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11238879",
+                    "copyright": "Wanping Chen",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/6/554589_1696852481.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11116462",
+                    "copyright": "Eric Wang",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/1405325_1695517799.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11098591",
+                    "copyright": "Wayne Song",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/1882257_1676603542.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10882272",
+                    "copyright": "LuYifeng",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/6/92352_1668078269.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10776074",
+                    "copyright": "Bear _ JA",
+                    "source": "Jetphotos"
+                }
+            ]
+        },
+        "hex": "7814b9"
+    },
+    "airline": {
+        "name": "China Southern Airlines",
+        "short": "China Southern Airlines",
+        "code": {
+            "iata": "CZ",
+            "icao": "CSN"
+        },
+        "url": "china-southern-airlines-csn"
+    },
+    "owner": null,
+    "airspace": null,
+    "airport": {
+        "origin": {
+            "name": "Shenyang Taoxian International Airport",
+            "code": {
+                "iata": "SHE",
+                "icao": "ZYTX"
+            },
+            "position": {
+                "latitude": 41.639839,
+                "longitude": 123.483398,
+                "altitude": 198,
+                "country": {
+                    "id": null,
+                    "name": "China",
+                    "code": "CHN"
+                },
+                "region": {
+                    "city": "Shenyang"
+                }
+            },
+            "timezone": {
+                "name": "Asia/Shanghai",
+                "offset": 28800,
+                "offsetHours": "8:00",
+                "abbr": "CST",
+                "abbrName": "China Standard Time",
+                "isDst": false
+            },
+            "visible": true,
+            "website": null,
+            "info": {
+                "terminal": null,
+                "baggage": null,
+                "gate": "82"
+            }
+        },
+        "destination": {
+            "name": "Chongqing Jiangbei International Airport",
+            "code": {
+                "iata": "CKG",
+                "icao": "ZUCK"
+            },
+            "position": {
+                "latitude": 29.71921,
+                "longitude": 106.641602,
+                "altitude": 1365,
+                "country": {
+                    "id": null,
+                    "name": "China",
+                    "code": "CHN"
+                },
+                "region": {
+                    "city": "Chongqing"
+                }
+            },
+            "timezone": {
+                "name": "Asia/Chongqing",
+                "offset": 28800,
+                "offsetHours": "8:00",
+                "abbr": "CST",
+                "abbrName": "China Standard Time",
+                "isDst": false
+            },
+            "visible": true,
+            "website": null,
+            "info": {
+                "terminal": "3",
+                "baggage": "8",
+                "gate": null
+            }
+        },
+        "real": null
+    },
+    "flightHistory": {
+        "aircraft": [
+            {
+                "identification": {
+                    "id": "3454e69c",
+                    "number": {
+                        "default": "CZ6674"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Chengdu Tianfu International Airport",
+                        "code": {
+                            "iata": "TFU",
+                            "icao": "ZUTF"
+                        },
+                        "position": {
+                            "latitude": 30.319,
+                            "longitude": 104.445,
+                            "altitude": 1444,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Chengdu"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Chongqing",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Shenyang Taoxian International Airport",
+                        "code": {
+                            "iata": "SHE",
+                            "icao": "ZYTX"
+                        },
+                        "position": {
+                            "latitude": 41.639839,
+                            "longitude": 123.483398,
+                            "altitude": 198,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Shenyang"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710242256
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "34544779",
+                    "number": {
+                        "default": "CZ6673"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Shenyang Taoxian International Airport",
+                        "code": {
+                            "iata": "SHE",
+                            "icao": "ZYTX"
+                        },
+                        "position": {
+                            "latitude": 41.639839,
+                            "longitude": 123.483398,
+                            "altitude": 198,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Shenyang"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Chengdu Tianfu International Airport",
+                        "code": {
+                            "iata": "TFU",
+                            "icao": "ZUTF"
+                        },
+                        "position": {
+                            "latitude": 30.319,
+                            "longitude": 104.445,
+                            "altitude": 1444,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Chengdu"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Chongqing",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710221815
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "3453d774",
+                    "number": {
+                        "default": "CZ6216"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Hangzhou Xiaoshan International Airport",
+                        "code": {
+                            "iata": "HGH",
+                            "icao": "ZSHC"
+                        },
+                        "position": {
+                            "latitude": 30.2295,
+                            "longitude": 120.434402,
+                            "altitude": 23,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Hangzhou"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Hong_Kong",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "HKT",
+                            "abbrName": "Hong Kong Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Shenyang Taoxian International Airport",
+                        "code": {
+                            "iata": "SHE",
+                            "icao": "ZYTX"
+                        },
+                        "position": {
+                            "latitude": 41.639839,
+                            "longitude": 123.483398,
+                            "altitude": 198,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Shenyang"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710205719
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "3451ac84",
+                    "number": {
+                        "default": "CZ6215"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Shenyang Taoxian International Airport",
+                        "code": {
+                            "iata": "SHE",
+                            "icao": "ZYTX"
+                        },
+                        "position": {
+                            "latitude": 41.639839,
+                            "longitude": 123.483398,
+                            "altitude": 198,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Shenyang"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Hangzhou Xiaoshan International Airport",
+                        "code": {
+                            "iata": "HGH",
+                            "icao": "ZSHC"
+                        },
+                        "position": {
+                            "latitude": 30.2295,
+                            "longitude": 120.434402,
+                            "altitude": 23,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Hangzhou"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Hong_Kong",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "HKT",
+                            "abbrName": "Hong Kong Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710160241
+                    }
+                }
+            }
+        ]
+    },
+    "ems": null,
+    "availability": [
+        "AGE",
+        "MSN"
+    ],
+    "time": {
+        "scheduled": {
+            "departure": 1710302400,
+            "arrival": 1710315600
+        },
+        "real": {
+            "departure": 1710302139,
+            "arrival": null
+        },
+        "estimated": {
+            "departure": null,
+            "arrival": 1710315520
+        },
+        "other": {
+            "eta": 1710315520,
+            "updated": 1710304707
+        },
+        "historical": {
+            "flighttime": "13681",
+            "delay": "1403"
+        }
+    },
+    "trail": [
+        {
+            "lat": 42.172977,
+            "lng": 118.539673,
+            "alt": 36125,
+            "spd": 383,
+            "ts": 1710304663,
+            "hd": 273
+        },
+        {
+            "lat": 42.155361,
+            "lng": 118.965019,
+            "alt": 36100,
+            "spd": 385,
+            "ts": 1710304485,
+            "hd": 273
+        },
+        {
+            "lat": 41.977428,
+            "lng": 119.481499,
+            "alt": 36125,
+            "spd": 382,
+            "ts": 1710304243,
+            "hd": 298
+        },
+        {
+            "lat": 41.882401,
+            "lng": 119.720253,
+            "alt": 36100,
+            "spd": 380,
+            "ts": 1710304128,
+            "hd": 298
+        },
+        {
+            "lat": 41.729099,
+            "lng": 120.101448,
+            "alt": 36075,
+            "spd": 375,
+            "ts": 1710303943,
+            "hd": 298
+        },
+        {
+            "lat": 41.68066,
+            "lng": 120.220947,
+            "alt": 36125,
+            "spd": 379,
+            "ts": 1710303884,
+            "hd": 298
+        },
+        {
+            "lat": 41.596161,
+            "lng": 120.472389,
+            "alt": 36125,
+            "spd": 379,
+            "ts": 1710303766,
+            "hd": 279
+        },
+        {
+            "lat": 41.596889,
+            "lng": 120.619331,
+            "alt": 36100,
+            "spd": 379,
+            "ts": 1710303703,
+            "hd": 266
+        },
+        {
+            "lat": 41.604252,
+            "lng": 120.760193,
+            "alt": 36100,
+            "spd": 375,
+            "ts": 1710303642,
+            "hd": 266
+        },
+        {
+            "lat": 41.691998,
+            "lng": 121.999786,
+            "alt": 28900,
+            "spd": 395,
+            "ts": 1710303105,
+            "hd": 260
+        },
+        {
+            "lat": 41.70607,
+            "lng": 122.142807,
+            "alt": 27400,
+            "spd": 395,
+            "ts": 1710303046,
+            "hd": 272
+        },
+        {
+            "lat": 41.692978,
+            "lng": 122.284325,
+            "alt": 26200,
+            "spd": 381,
+            "ts": 1710302986,
+            "hd": 279
+        },
+        {
+            "lat": 41.677322,
+            "lng": 122.424339,
+            "alt": 24525,
+            "spd": 374,
+            "ts": 1710302925,
+            "hd": 279
+        },
+        {
+            "lat": 41.662437,
+            "lng": 122.555748,
+            "alt": 22725,
+            "spd": 365,
+            "ts": 1710302867,
+            "hd": 279
+        },
+        {
+            "lat": 41.647659,
+            "lng": 122.684891,
+            "alt": 20775,
+            "spd": 351,
+            "ts": 1710302807,
+            "hd": 279
+        },
+        {
+            "lat": 41.632919,
+            "lng": 122.812668,
+            "alt": 18600,
+            "spd": 335,
+            "ts": 1710302747,
+            "hd": 279
+        },
+        {
+            "lat": 41.618912,
+            "lng": 122.932701,
+            "alt": 16200,
+            "spd": 322,
+            "ts": 1710302687,
+            "hd": 279
+        },
+        {
+            "lat": 41.605129,
+            "lng": 123.049622,
+            "alt": 13375,
+            "spd": 313,
+            "ts": 1710302627,
+            "hd": 279
+        },
+        {
+            "lat": 41.5909,
+            "lng": 123.169724,
+            "alt": 10800,
+            "spd": 280,
+            "ts": 1710302563,
+            "hd": 280
+        },
+        {
+            "lat": 41.646309,
+            "lng": 123.495331,
+            "alt": 0,
+            "spd": 12,
+            "ts": 1710302204,
+            "hd": 320
+        },
+        {
+            "lat": 41.644707,
+            "lng": 123.494164,
+            "alt": 0,
+            "spd": 5,
+            "ts": 1710301906,
+            "hd": 47
+        },
+        {
+            "lat": 41.642967,
+            "lng": 123.491524,
+            "alt": 0,
+            "spd": 9,
+            "ts": 1710301847,
+            "hd": 47
+        },
+        {
+            "lat": 41.640697,
+            "lng": 123.491707,
+            "alt": 0,
+            "spd": 0,
+            "ts": 1710301603,
+            "hd": 137
+        }
+    ],
+    "firstTimestamp": 1710301603,
+    "s": "OGCcvNQLvm_vwWpUPO0kLDfI-VpwlLL8CLcr2Ddm40lejzHsvwPLvPClIxlZ8xWp"
+}

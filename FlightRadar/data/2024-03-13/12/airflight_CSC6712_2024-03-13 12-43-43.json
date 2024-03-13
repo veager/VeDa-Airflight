@@ -1,0 +1,657 @@
+{
+    "identification": {
+        "id": "3457a85e",
+        "row": 5480553815,
+        "number": {
+            "default": "3U6712",
+            "alternative": null
+        },
+        "callsign": "CSC6712"
+    },
+    "status": {
+        "live": true,
+        "text": "Estimated- 14:19",
+        "icon": "green",
+        "estimated": null,
+        "ambiguous": false,
+        "generic": {
+            "status": {
+                "text": "estimated",
+                "color": "green",
+                "type": "arrival"
+            },
+            "eventTime": {
+                "utc": 1710310784,
+                "local": 1710339584
+            }
+        }
+    },
+    "level": "limited",
+    "promote": false,
+    "aircraft": {
+        "model": {
+            "code": "A21N",
+            "text": "Airbus A321-271N"
+        },
+        "countryId": 46,
+        "registration": "B-30CS",
+        "age": null,
+        "msn": null,
+        "images": {
+            "thumbnails": [
+                {
+                    "src": "https://cdn.jetphotos.com/200/6/2002820_1704342473_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11197046",
+                    "copyright": "Hao Phan",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/1037495_1693901046_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11081856",
+                    "copyright": "Sharo",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/6/2005078_1698030960_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11131306",
+                    "copyright": "AGUIJUN-Lei",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/847967_1686227476_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10992952",
+                    "copyright": "Huy Do",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/1082245_1688835377_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11021899",
+                    "copyright": "Jiaming",
+                    "source": "Jetphotos"
+                }
+            ],
+            "medium": [
+                {
+                    "src": "https://cdn.jetphotos.com/400/6/2002820_1704342473.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11197046",
+                    "copyright": "Hao Phan",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/1037495_1693901046.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11081856",
+                    "copyright": "Sharo",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/6/2005078_1698030960.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11131306",
+                    "copyright": "AGUIJUN-Lei",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/847967_1686227476.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10992952",
+                    "copyright": "Huy Do",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/1082245_1688835377.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11021899",
+                    "copyright": "Jiaming",
+                    "source": "Jetphotos"
+                }
+            ],
+            "large": [
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/6/2002820_1704342473.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11197046",
+                    "copyright": "Hao Phan",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/1037495_1693901046.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11081856",
+                    "copyright": "Sharo",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/6/2005078_1698030960.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11131306",
+                    "copyright": "AGUIJUN-Lei",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/847967_1686227476.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10992952",
+                    "copyright": "Huy Do",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/1082245_1688835377.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11021899",
+                    "copyright": "Jiaming",
+                    "source": "Jetphotos"
+                }
+            ]
+        },
+        "hex": "781849"
+    },
+    "airline": {
+        "name": "Sichuan Airlines",
+        "short": "Sichuan Airlines",
+        "code": {
+            "iata": "3U",
+            "icao": "CSC"
+        },
+        "url": "sichuan-airlines-csc"
+    },
+    "owner": null,
+    "airspace": null,
+    "airport": {
+        "origin": {
+            "name": "Guangzhou Baiyun International Airport",
+            "code": {
+                "iata": "CAN",
+                "icao": "ZGGG"
+            },
+            "position": {
+                "latitude": 23.392429,
+                "longitude": 113.298698,
+                "altitude": 50,
+                "country": {
+                    "id": 46,
+                    "name": "China",
+                    "code": "CN",
+                    "codeLong": "CHN"
+                },
+                "region": {
+                    "city": "Guangzhou"
+                }
+            },
+            "timezone": {
+                "name": "Asia/Shanghai",
+                "offset": 28800,
+                "offsetHours": "8:00",
+                "abbr": "CST",
+                "abbrName": "China Standard Time",
+                "isDst": false
+            },
+            "visible": true,
+            "website": "http://www.gbiac.net/en/byhome",
+            "info": {
+                "terminal": "2",
+                "baggage": null,
+                "gate": "E,F"
+            }
+        },
+        "destination": {
+            "name": "Chengdu Tianfu International Airport",
+            "code": {
+                "iata": "TFU",
+                "icao": "ZUTF"
+            },
+            "position": {
+                "latitude": 30.319,
+                "longitude": 104.445,
+                "altitude": 1444,
+                "country": {
+                    "id": null,
+                    "name": "China",
+                    "code": "CHN"
+                },
+                "region": {
+                    "city": "Chengdu"
+                }
+            },
+            "timezone": {
+                "name": "Asia/Chongqing",
+                "offset": 28800,
+                "offsetHours": "8:00",
+                "abbr": "CST",
+                "abbrName": "China Standard Time",
+                "isDst": false
+            },
+            "visible": true,
+            "website": null,
+            "info": {
+                "terminal": "2",
+                "baggage": null,
+                "gate": null
+            }
+        },
+        "real": null
+    },
+    "flightHistory": {
+        "aircraft": [
+            {
+                "identification": {
+                    "id": "34573259",
+                    "number": {
+                        "default": "3U6711"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Chengdu Tianfu International Airport",
+                        "code": {
+                            "iata": "TFU",
+                            "icao": "ZUTF"
+                        },
+                        "position": {
+                            "latitude": 30.319,
+                            "longitude": 104.445,
+                            "altitude": 1444,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Chengdu"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Chongqing",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Guangzhou Baiyun International Airport",
+                        "code": {
+                            "iata": "CAN",
+                            "icao": "ZGGG"
+                        },
+                        "position": {
+                            "latitude": 23.392429,
+                            "longitude": 113.298698,
+                            "altitude": 50,
+                            "country": {
+                                "id": 46,
+                                "name": "China",
+                                "code": "CN",
+                                "codeLong": "CHN"
+                            },
+                            "region": {
+                                "city": "Guangzhou"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": "http://www.gbiac.net/en/byhome"
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710288794
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "34517df3",
+                    "number": {
+                        "default": "3U3940"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Nha Trang Cam Ranh International Airport",
+                        "code": {
+                            "iata": "CXR",
+                            "icao": "VVCR"
+                        },
+                        "position": {
+                            "latitude": 11.993611,
+                            "longitude": 109.224998,
+                            "altitude": 40,
+                            "country": {
+                                "id": null,
+                                "name": "Vietnam",
+                                "code": "VNM"
+                            },
+                            "region": {
+                                "city": "Nha Trang"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Ho_Chi_Minh",
+                            "offset": 25200,
+                            "offsetHours": "7:00",
+                            "abbr": "+07",
+                            "abbrName": "",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Chengdu Tianfu International Airport",
+                        "code": {
+                            "iata": "TFU",
+                            "icao": "ZUTF"
+                        },
+                        "position": {
+                            "latitude": 30.319,
+                            "longitude": 104.445,
+                            "altitude": 1444,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Chengdu"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Chongqing",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710154917
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "34510879",
+                    "number": {
+                        "default": "3U3939"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Chengdu Tianfu International Airport",
+                        "code": {
+                            "iata": "TFU",
+                            "icao": "ZUTF"
+                        },
+                        "position": {
+                            "latitude": 30.319,
+                            "longitude": 104.445,
+                            "altitude": 1444,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Chengdu"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Chongqing",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Nha Trang Cam Ranh International Airport",
+                        "code": {
+                            "iata": "CXR",
+                            "icao": "VVCR"
+                        },
+                        "position": {
+                            "latitude": 11.993611,
+                            "longitude": 109.224998,
+                            "altitude": 40,
+                            "country": {
+                                "id": null,
+                                "name": "Vietnam",
+                                "code": "VNM"
+                            },
+                            "region": {
+                                "city": "Nha Trang"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Ho_Chi_Minh",
+                            "offset": 25200,
+                            "offsetHours": "7:00",
+                            "abbr": "+07",
+                            "abbrName": "",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710139519
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "3450abff",
+                    "number": {
+                        "default": "3U6414"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Ordos Ejin Horo Airport",
+                        "code": {
+                            "iata": "DSN",
+                            "icao": "ZBDS"
+                        },
+                        "position": {
+                            "latitude": 39.493889,
+                            "longitude": 109.862221,
+                            "altitude": 213,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Ordos"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Chongqing",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Chengdu Tianfu International Airport",
+                        "code": {
+                            "iata": "TFU",
+                            "icao": "ZUTF"
+                        },
+                        "position": {
+                            "latitude": 30.319,
+                            "longitude": 104.445,
+                            "altitude": 1444,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Chengdu"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Chongqing",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710125280
+                    }
+                }
+            }
+        ]
+    },
+    "ems": null,
+    "availability": [
+        "AGE",
+        "MSN"
+    ],
+    "time": {
+        "scheduled": {
+            "departure": 1710302100,
+            "arrival": 1710310500
+        },
+        "real": {
+            "departure": 1710303700,
+            "arrival": null
+        },
+        "estimated": {
+            "departure": null,
+            "arrival": 1710310784
+        },
+        "other": {
+            "eta": 1710310784,
+            "updated": 1710304895
+        },
+        "historical": {
+            "flighttime": "7177",
+            "delay": "-169"
+        }
+    },
+    "trail": [
+        {
+            "lat": 24.524279,
+            "lng": 112.391693,
+            "alt": 23600,
+            "spd": 382,
+            "ts": 1710304903,
+            "hd": 276
+        },
+        {
+            "lat": 24.469481,
+            "lng": 112.729187,
+            "alt": 23600,
+            "spd": 395,
+            "ts": 1710304724,
+            "hd": 313
+        },
+        {
+            "lat": 24.36339,
+            "lng": 112.785332,
+            "alt": 23600,
+            "spd": 424,
+            "ts": 1710304662,
+            "hd": 344
+        },
+        {
+            "lat": 24.05987,
+            "lng": 112.901619,
+            "alt": 21350,
+            "spd": 375,
+            "ts": 1710304484,
+            "hd": 337
+        },
+        {
+            "lat": 23.909592,
+            "lng": 112.975464,
+            "alt": 19525,
+            "spd": 384,
+            "ts": 1710304391,
+            "hd": 335
+        },
+        {
+            "lat": 23.823761,
+            "lng": 113.017982,
+            "alt": 18550,
+            "spd": 356,
+            "ts": 1710304336,
+            "hd": 335
+        },
+        {
+            "lat": 23.790615,
+            "lng": 113.034134,
+            "alt": 17725,
+            "spd": 359,
+            "ts": 1710304317,
+            "hd": 335
+        },
+        {
+            "lat": 23.594862,
+            "lng": 113.078598,
+            "alt": 13225,
+            "spd": 354,
+            "ts": 1710304191,
+            "hd": 359
+        },
+        {
+            "lat": 23.493799,
+            "lng": 113.07943,
+            "alt": 11650,
+            "spd": 298,
+            "ts": 1710304124,
+            "hd": 359
+        },
+        {
+            "lat": 23.440355,
+            "lng": 113.079124,
+            "alt": 10775,
+            "spd": 254,
+            "ts": 1710304082,
+            "hd": 357
+        },
+        {
+            "lat": 23.410421,
+            "lng": 113.091835,
+            "alt": 9900,
+            "spd": 216,
+            "ts": 1710304052,
+            "hd": 310
+        },
+        {
+            "lat": 23.378309,
+            "lng": 113.131958,
+            "alt": 7650,
+            "spd": 233,
+            "ts": 1710304004,
+            "hd": 312
+        }
+    ],
+    "firstTimestamp": 1710304004,
+    "s": "QsJWE7XsioSTzSdztLKu_uJn35-BjKE9bxKT0-QJMSFTDb-tx_bg19UMtiF2ucWa"
+}

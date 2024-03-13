@@ -1,0 +1,687 @@
+{
+    "identification": {
+        "id": "3457a64e",
+        "row": 5480553920,
+        "number": {
+            "default": "3U6772",
+            "alternative": null
+        },
+        "callsign": "CSC6772"
+    },
+    "status": {
+        "live": true,
+        "text": "Estimated- 13:43",
+        "icon": "green",
+        "estimated": null,
+        "ambiguous": false,
+        "generic": {
+            "status": {
+                "text": "estimated",
+                "color": "green",
+                "type": "arrival"
+            },
+            "eventTime": {
+                "utc": 1710308608,
+                "local": 1710337408
+            }
+        }
+    },
+    "level": "limited",
+    "promote": false,
+    "aircraft": {
+        "model": {
+            "code": "A320",
+            "text": "Airbus A320-232"
+        },
+        "countryId": 46,
+        "registration": "B-6700",
+        "age": null,
+        "msn": null,
+        "images": {
+            "thumbnails": [
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/1654671_1708102021_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11247693",
+                    "copyright": "JJ Wang",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/479981_1697283031_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11121254",
+                    "copyright": "LewisNGB",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/6/769308_1696728438_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11115094",
+                    "copyright": "Dewey Qi",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/6/939180_1697246808_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11120923",
+                    "copyright": "TposLod_ZSAM",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/6/970762_1694444160_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11087369",
+                    "copyright": "6186",
+                    "source": "Jetphotos"
+                }
+            ],
+            "medium": [
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/1654671_1708102021.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11247693",
+                    "copyright": "JJ Wang",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/479981_1697283031.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11121254",
+                    "copyright": "LewisNGB",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/6/769308_1696728438.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11115094",
+                    "copyright": "Dewey Qi",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/6/939180_1697246808.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11120923",
+                    "copyright": "TposLod_ZSAM",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/6/970762_1694444160.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11087369",
+                    "copyright": "6186",
+                    "source": "Jetphotos"
+                }
+            ],
+            "large": [
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/1654671_1708102021.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11247693",
+                    "copyright": "JJ Wang",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/479981_1697283031.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11121254",
+                    "copyright": "LewisNGB",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/6/769308_1696728438.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11115094",
+                    "copyright": "Dewey Qi",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/6/939180_1697246808.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11120923",
+                    "copyright": "TposLod_ZSAM",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/6/970762_1694444160.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11087369",
+                    "copyright": "6186",
+                    "source": "Jetphotos"
+                }
+            ]
+        },
+        "hex": "78067a"
+    },
+    "airline": {
+        "name": "Sichuan Airlines",
+        "short": "Sichuan Airlines",
+        "code": {
+            "iata": "3U",
+            "icao": "CSC"
+        },
+        "url": "sichuan-airlines-csc"
+    },
+    "owner": null,
+    "airspace": null,
+    "airport": {
+        "origin": {
+            "name": "Liuzhou Bailian Airport",
+            "code": {
+                "iata": "LZH",
+                "icao": "ZGZH"
+            },
+            "position": {
+                "latitude": 24.2075,
+                "longitude": 109.391098,
+                "altitude": 295,
+                "country": {
+                    "id": null,
+                    "name": "China",
+                    "code": "CHN"
+                },
+                "region": {
+                    "city": "Liuzhou"
+                }
+            },
+            "timezone": {
+                "name": "Asia/Chongqing",
+                "offset": 28800,
+                "offsetHours": "8:00",
+                "abbr": "CST",
+                "abbrName": "China Standard Time",
+                "isDst": false
+            },
+            "visible": true,
+            "website": null,
+            "info": {
+                "terminal": null,
+                "baggage": null,
+                "gate": "5"
+            }
+        },
+        "destination": {
+            "name": "Chengdu Tianfu International Airport",
+            "code": {
+                "iata": "TFU",
+                "icao": "ZUTF"
+            },
+            "position": {
+                "latitude": 30.319,
+                "longitude": 104.445,
+                "altitude": 1444,
+                "country": {
+                    "id": null,
+                    "name": "China",
+                    "code": "CHN"
+                },
+                "region": {
+                    "city": "Chengdu"
+                }
+            },
+            "timezone": {
+                "name": "Asia/Chongqing",
+                "offset": 28800,
+                "offsetHours": "8:00",
+                "abbr": "CST",
+                "abbrName": "China Standard Time",
+                "isDst": false
+            },
+            "visible": true,
+            "website": null,
+            "info": {
+                "terminal": "2",
+                "baggage": null,
+                "gate": null
+            }
+        },
+        "real": null
+    },
+    "flightHistory": {
+        "aircraft": [
+            {
+                "identification": {
+                    "id": "34576565",
+                    "number": {
+                        "default": "3U6771"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Chengdu Tianfu International Airport",
+                        "code": {
+                            "iata": "TFU",
+                            "icao": "ZUTF"
+                        },
+                        "position": {
+                            "latitude": 30.319,
+                            "longitude": 104.445,
+                            "altitude": 1444,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Chengdu"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Chongqing",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Liuzhou Bailian Airport",
+                        "code": {
+                            "iata": "LZH",
+                            "icao": "ZGZH"
+                        },
+                        "position": {
+                            "latitude": 24.2075,
+                            "longitude": 109.391098,
+                            "altitude": 295,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Liuzhou"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Chongqing",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710294248
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "34556152",
+                    "number": {
+                        "default": "3U6980"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Dazhou Jinya Airport",
+                        "code": {
+                            "iata": "DZH",
+                            "icao": "ZUDA"
+                        },
+                        "position": {
+                            "latitude": 31.047243,
+                            "longitude": 107.435455,
+                            "altitude": 1473,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Dazhou"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Chongqing",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Chengdu Tianfu International Airport",
+                        "code": {
+                            "iata": "TFU",
+                            "icao": "ZUTF"
+                        },
+                        "position": {
+                            "latitude": 30.319,
+                            "longitude": 104.445,
+                            "altitude": 1444,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Chengdu"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Chongqing",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710252000
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "3454d8ee",
+                    "number": {
+                        "default": "3U6980"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Quanzhou Jinjiang Airport",
+                        "code": {
+                            "iata": "JJN",
+                            "icao": "ZSQZ"
+                        },
+                        "position": {
+                            "latitude": 24.797356,
+                            "longitude": 118.589439,
+                            "altitude": 11,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Quanzhou"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Dazhou Jinya Airport",
+                        "code": {
+                            "iata": "DZH",
+                            "icao": "ZUDA"
+                        },
+                        "position": {
+                            "latitude": 31.047243,
+                            "longitude": 107.435455,
+                            "altitude": 1473,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Dazhou"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Chongqing",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710240890
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "34547e5e",
+                    "number": {
+                        "default": "3U6979"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Dazhou Jinya Airport",
+                        "code": {
+                            "iata": "DZH",
+                            "icao": "ZUDA"
+                        },
+                        "position": {
+                            "latitude": 31.047243,
+                            "longitude": 107.435455,
+                            "altitude": 1473,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Dazhou"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Chongqing",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Quanzhou Jinjiang Airport",
+                        "code": {
+                            "iata": "JJN",
+                            "icao": "ZSQZ"
+                        },
+                        "position": {
+                            "latitude": 24.797356,
+                            "longitude": 118.589439,
+                            "altitude": 11,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Quanzhou"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710228420
+                    }
+                }
+            }
+        ]
+    },
+    "ems": null,
+    "availability": [
+        "AGE",
+        "MSN"
+    ],
+    "time": {
+        "scheduled": {
+            "departure": 1710303300,
+            "arrival": 1710310200
+        },
+        "real": {
+            "departure": 1710303138,
+            "arrival": null
+        },
+        "estimated": {
+            "departure": null,
+            "arrival": 1710308608
+        },
+        "other": {
+            "eta": 1710308608,
+            "updated": 1710304895
+        },
+        "historical": {
+            "flighttime": "5604",
+            "delay": "-1068"
+        }
+    },
+    "trail": [
+        {
+            "lat": 26.18014,
+            "lng": 108.205399,
+            "alt": 27475,
+            "spd": 363,
+            "ts": 1710304965,
+            "hd": 296
+        },
+        {
+            "lat": 26.1362,
+            "lng": 108.307182,
+            "alt": 26450,
+            "spd": 353,
+            "ts": 1710304904,
+            "hd": 296
+        },
+        {
+            "lat": 26.0194,
+            "lng": 108.49437,
+            "alt": 25600,
+            "spd": 385,
+            "ts": 1710304785,
+            "hd": 312
+        },
+        {
+            "lat": 25.947889,
+            "lng": 108.583107,
+            "alt": 25625,
+            "spd": 384,
+            "ts": 1710304725,
+            "hd": 312
+        },
+        {
+            "lat": 25.87648,
+            "lng": 108.671631,
+            "alt": 25050,
+            "spd": 383,
+            "ts": 1710304665,
+            "hd": 312
+        },
+        {
+            "lat": 25.79855,
+            "lng": 108.767952,
+            "alt": 23375,
+            "spd": 389,
+            "ts": 1710304600,
+            "hd": 312
+        },
+        {
+            "lat": 25.66127,
+            "lng": 108.937073,
+            "alt": 21700,
+            "spd": 384,
+            "ts": 1710304485,
+            "hd": 312
+        },
+        {
+            "lat": 25.44643,
+            "lng": 109.200371,
+            "alt": 21700,
+            "spd": 383,
+            "ts": 1710304305,
+            "hd": 313
+        },
+        {
+            "lat": 24.941851,
+            "lng": 109.812698,
+            "alt": 21700,
+            "spd": 387,
+            "ts": 1710303885,
+            "hd": 313
+        },
+        {
+            "lat": 24.869156,
+            "lng": 109.899902,
+            "alt": 21700,
+            "spd": 386,
+            "ts": 1710303825,
+            "hd": 312
+        },
+        {
+            "lat": 24.699221,
+            "lng": 109.959312,
+            "alt": 20975,
+            "spd": 382,
+            "ts": 1710303705,
+            "hd": 38
+        },
+        {
+            "lat": 24.6353,
+            "lng": 109.861519,
+            "alt": 19100,
+            "spd": 393,
+            "ts": 1710303645,
+            "hd": 57
+        },
+        {
+            "lat": 24.50386,
+            "lng": 109.694572,
+            "alt": 15000,
+            "spd": 338,
+            "ts": 1710303526,
+            "hd": 45
+        },
+        {
+            "lat": 24.43844,
+            "lng": 109.622673,
+            "alt": 12550,
+            "spd": 318,
+            "ts": 1710303466,
+            "hd": 53
+        },
+        {
+            "lat": 24.3309,
+            "lng": 109.486267,
+            "alt": 6575,
+            "spd": 287,
+            "ts": 1710303346,
+            "hd": 54
+        },
+        {
+            "lat": 24.28931,
+            "lng": 109.421181,
+            "alt": 4025,
+            "spd": 242,
+            "ts": 1710303287,
+            "hd": 56
+        }
+    ],
+    "firstTimestamp": 1710303287,
+    "s": "21wd4yu6bh-Og-n-Wnwz86PATruLdxt5mdk8FVjhYxtgLxkwLKwrnfRGhCnLeP1K"
+}

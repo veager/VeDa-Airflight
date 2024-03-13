@@ -1,0 +1,631 @@
+{
+    "identification": {
+        "id": "3457add4",
+        "row": 5480843894,
+        "number": {
+            "default": "CZ6130",
+            "alternative": null
+        },
+        "callsign": "CSN6130"
+    },
+    "status": {
+        "live": true,
+        "text": "Estimated- 13:26",
+        "icon": "green",
+        "estimated": null,
+        "ambiguous": false,
+        "generic": {
+            "status": {
+                "text": "estimated",
+                "color": "green",
+                "type": "arrival"
+            },
+            "eventTime": {
+                "utc": 1710307584,
+                "local": 1710336384
+            }
+        }
+    },
+    "level": "limited",
+    "promote": false,
+    "aircraft": {
+        "model": {
+            "code": "A320",
+            "text": "Airbus A320-232"
+        },
+        "countryId": 46,
+        "registration": "B-6896",
+        "age": null,
+        "msn": null,
+        "images": {
+            "thumbnails": [
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/897293_1687185654_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11002494",
+                    "copyright": "HETZhezi",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/6/1797908_1678537705_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10906560",
+                    "copyright": "Lewis Fu",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/6/1438683_1679232678_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10914222",
+                    "copyright": "heitanyang",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/765488_1675616581_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10872059",
+                    "copyright": "LYX20014",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/850219_1679657951_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10918762",
+                    "copyright": "Stefano R",
+                    "source": "Jetphotos"
+                }
+            ],
+            "medium": [
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/897293_1687185654.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11002494",
+                    "copyright": "HETZhezi",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/6/1797908_1678537705.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10906560",
+                    "copyright": "Lewis Fu",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/6/1438683_1679232678.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10914222",
+                    "copyright": "heitanyang",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/765488_1675616581.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10872059",
+                    "copyright": "LYX20014",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/850219_1679657951.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10918762",
+                    "copyright": "Stefano R",
+                    "source": "Jetphotos"
+                }
+            ],
+            "large": [
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/897293_1687185654.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11002494",
+                    "copyright": "HETZhezi",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/6/1797908_1678537705.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10906560",
+                    "copyright": "Lewis Fu",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/6/1438683_1679232678.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10914222",
+                    "copyright": "heitanyang",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/765488_1675616581.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10872059",
+                    "copyright": "LYX20014",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/850219_1679657951.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10918762",
+                    "copyright": "Stefano R",
+                    "source": "Jetphotos"
+                }
+            ]
+        },
+        "hex": "78088a"
+    },
+    "airline": {
+        "name": "China Southern Airlines",
+        "short": "China Southern Airlines",
+        "code": {
+            "iata": "CZ",
+            "icao": "CSN"
+        },
+        "url": "china-southern-airlines-csn"
+    },
+    "owner": null,
+    "airspace": null,
+    "airport": {
+        "origin": {
+            "name": "Beijing Daxing International Airport",
+            "code": {
+                "iata": "PKX",
+                "icao": "ZBAD"
+            },
+            "position": {
+                "latitude": 39.509167,
+                "longitude": 116.410553,
+                "altitude": 98,
+                "country": {
+                    "id": null,
+                    "name": "China",
+                    "code": "CHN"
+                },
+                "region": {
+                    "city": "Beijing"
+                }
+            },
+            "timezone": {
+                "name": "Asia/Shanghai",
+                "offset": 28800,
+                "offsetHours": "8:00",
+                "abbr": "CST",
+                "abbrName": "China Standard Time",
+                "isDst": false
+            },
+            "visible": true,
+            "website": null,
+            "info": {
+                "terminal": null,
+                "baggage": null,
+                "gate": null
+            }
+        },
+        "destination": {
+            "name": "Dalian Zhoushuizi International Airport",
+            "code": {
+                "iata": "DLC",
+                "icao": "ZYTL"
+            },
+            "position": {
+                "latitude": 38.96566,
+                "longitude": 121.538597,
+                "altitude": 107,
+                "country": {
+                    "id": null,
+                    "name": "China",
+                    "code": "CHN"
+                },
+                "region": {
+                    "city": "Dalian"
+                }
+            },
+            "timezone": {
+                "name": "Asia/Shanghai",
+                "offset": 28800,
+                "offsetHours": "8:00",
+                "abbr": "CST",
+                "abbrName": "China Standard Time",
+                "isDst": false
+            },
+            "visible": true,
+            "website": null,
+            "info": {
+                "terminal": null,
+                "baggage": "1",
+                "gate": null
+            }
+        },
+        "real": null
+    },
+    "flightHistory": {
+        "aircraft": [
+            {
+                "identification": {
+                    "id": "3457720e",
+                    "number": {
+                        "default": "CZ6129"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Dalian Zhoushuizi International Airport",
+                        "code": {
+                            "iata": "DLC",
+                            "icao": "ZYTL"
+                        },
+                        "position": {
+                            "latitude": 38.96566,
+                            "longitude": 121.538597,
+                            "altitude": 107,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Dalian"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Beijing Daxing International Airport",
+                        "code": {
+                            "iata": "PKX",
+                            "icao": "ZBAD"
+                        },
+                        "position": {
+                            "latitude": 39.509167,
+                            "longitude": 116.410553,
+                            "altitude": 98,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Beijing"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710295809
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "34553e96",
+                    "number": {
+                        "default": "CZ6128"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Beijing Daxing International Airport",
+                        "code": {
+                            "iata": "PKX",
+                            "icao": "ZBAD"
+                        },
+                        "position": {
+                            "latitude": 39.509167,
+                            "longitude": 116.410553,
+                            "altitude": 98,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Beijing"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Dalian Zhoushuizi International Airport",
+                        "code": {
+                            "iata": "DLC",
+                            "icao": "ZYTL"
+                        },
+                        "position": {
+                            "latitude": 38.96566,
+                            "longitude": 121.538597,
+                            "altitude": 107,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Dalian"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710249855
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "3454d413",
+                    "number": {
+                        "default": "CZ6127"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Dalian Zhoushuizi International Airport",
+                        "code": {
+                            "iata": "DLC",
+                            "icao": "ZYTL"
+                        },
+                        "position": {
+                            "latitude": 38.96566,
+                            "longitude": 121.538597,
+                            "altitude": 107,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Dalian"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Beijing Daxing International Airport",
+                        "code": {
+                            "iata": "PKX",
+                            "icao": "ZBAD"
+                        },
+                        "position": {
+                            "latitude": 39.509167,
+                            "longitude": 116.410553,
+                            "altitude": 98,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Beijing"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710240316
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "34549234",
+                    "number": {
+                        "default": "CZ6122"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Beijing Daxing International Airport",
+                        "code": {
+                            "iata": "PKX",
+                            "icao": "ZBAD"
+                        },
+                        "position": {
+                            "latitude": 39.509167,
+                            "longitude": 116.410553,
+                            "altitude": 98,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Beijing"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Dalian Zhoushuizi International Airport",
+                        "code": {
+                            "iata": "DLC",
+                            "icao": "ZYTL"
+                        },
+                        "position": {
+                            "latitude": 38.96566,
+                            "longitude": 121.538597,
+                            "altitude": 107,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Dalian"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710231811
+                    }
+                }
+            }
+        ]
+    },
+    "ems": null,
+    "availability": [
+        "AGE",
+        "MSN"
+    ],
+    "time": {
+        "scheduled": {
+            "departure": 1710303900,
+            "arrival": 1710308400
+        },
+        "real": {
+            "departure": 1710304334,
+            "arrival": null
+        },
+        "estimated": {
+            "departure": null,
+            "arrival": 1710307584
+        },
+        "other": {
+            "eta": 1710307584,
+            "updated": 1710304967
+        },
+        "historical": {
+            "flighttime": "3323",
+            "delay": "-554"
+        }
+    },
+    "trail": [
+        {
+            "lat": 39.113842,
+            "lng": 117.233337,
+            "alt": 12800,
+            "spd": 406,
+            "ts": 1710304920,
+            "hd": 93
+        },
+        {
+            "lat": 39.116821,
+            "lng": 117.175278,
+            "alt": 12800,
+            "spd": 404,
+            "ts": 1710304897,
+            "hd": 93
+        },
+        {
+            "lat": 39.120392,
+            "lng": 117.103752,
+            "alt": 12800,
+            "spd": 403,
+            "ts": 1710304867,
+            "hd": 93
+        },
+        {
+            "lat": 39.179626,
+            "lng": 116.917397,
+            "alt": 12050,
+            "spd": 391,
+            "ts": 1710304776,
+            "hd": 158
+        },
+        {
+            "lat": 39.189816,
+            "lng": 116.912231,
+            "alt": 11900,
+            "spd": 386,
+            "ts": 1710304771,
+            "hd": 158
+        },
+        {
+            "lat": 39.214909,
+            "lng": 116.899597,
+            "alt": 11550,
+            "spd": 370,
+            "ts": 1710304755,
+            "hd": 158
+        },
+        {
+            "lat": 39.25787,
+            "lng": 116.878052,
+            "alt": 10925,
+            "spd": 330,
+            "ts": 1710304726,
+            "hd": 158
+        },
+        {
+            "lat": 39.307873,
+            "lng": 116.852844,
+            "alt": 9500,
+            "spd": 303,
+            "ts": 1710304690,
+            "hd": 158
+        },
+        {
+            "lat": 39.328537,
+            "lng": 116.842407,
+            "alt": 8575,
+            "spd": 296,
+            "ts": 1710304673,
+            "hd": 158
+        }
+    ],
+    "firstTimestamp": 1710304673,
+    "s": "iokyZCxtmBr5V44Nlc2JvlQuUlb6QiY84eUzSvp-NjgtVnwHdrjwT3-qeWzng7eb"
+}

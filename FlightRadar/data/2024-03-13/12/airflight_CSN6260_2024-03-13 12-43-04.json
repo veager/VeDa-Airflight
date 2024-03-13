@@ -1,0 +1,572 @@
+{
+    "identification": {
+        "id": "3457af69",
+        "row": 5480612564,
+        "number": {
+            "default": "CZ6260",
+            "alternative": null
+        },
+        "callsign": "CSN6260"
+    },
+    "status": {
+        "live": true,
+        "text": "Scheduled",
+        "icon": null,
+        "estimated": null,
+        "ambiguous": false,
+        "generic": {
+            "status": {
+                "text": "scheduled",
+                "color": "gray",
+                "type": "arrival"
+            }
+        }
+    },
+    "level": "limited",
+    "promote": false,
+    "aircraft": {
+        "model": {
+            "code": "A21N",
+            "text": "Airbus A321-253N"
+        },
+        "countryId": 46,
+        "registration": "B-306H",
+        "age": null,
+        "msn": null,
+        "images": {
+            "thumbnails": [
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/654361_1705925211_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11218406",
+                    "copyright": "CHR_1041",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/6/514055_1707037115_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11231923",
+                    "copyright": "Aviation Eros ",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/1038147_1688569911_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11018376",
+                    "copyright": "LinJiayu",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/1771312_1680339073_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10925881",
+                    "copyright": "PVG_YYDS",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/6/78427_1675229870_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10867569",
+                    "copyright": "SHACC",
+                    "source": "Jetphotos"
+                }
+            ],
+            "medium": [
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/654361_1705925211.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11218406",
+                    "copyright": "CHR_1041",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/6/514055_1707037115.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11231923",
+                    "copyright": "Aviation Eros ",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/1038147_1688569911.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11018376",
+                    "copyright": "LinJiayu",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/1771312_1680339073.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10925881",
+                    "copyright": "PVG_YYDS",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/6/78427_1675229870.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10867569",
+                    "copyright": "SHACC",
+                    "source": "Jetphotos"
+                }
+            ],
+            "large": [
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/654361_1705925211.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11218406",
+                    "copyright": "CHR_1041",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/6/514055_1707037115.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11231923",
+                    "copyright": "Aviation Eros ",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/1038147_1688569911.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11018376",
+                    "copyright": "LinJiayu",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/1771312_1680339073.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10925881",
+                    "copyright": "PVG_YYDS",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/6/78427_1675229870.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10867569",
+                    "copyright": "SHACC",
+                    "source": "Jetphotos"
+                }
+            ]
+        },
+        "hex": "78161f"
+    },
+    "airline": {
+        "name": "China Southern Airlines",
+        "short": "China Southern Airlines",
+        "code": {
+            "iata": "CZ",
+            "icao": "CSN"
+        },
+        "url": "china-southern-airlines-csn"
+    },
+    "owner": null,
+    "airspace": null,
+    "airport": {
+        "origin": {
+            "name": "Hangzhou Xiaoshan International Airport",
+            "code": {
+                "iata": "HGH",
+                "icao": "ZSHC"
+            },
+            "position": {
+                "latitude": 30.2295,
+                "longitude": 120.434402,
+                "altitude": 23,
+                "country": {
+                    "id": null,
+                    "name": "China",
+                    "code": "CHN"
+                },
+                "region": {
+                    "city": "Hangzhou"
+                }
+            },
+            "timezone": {
+                "name": "Asia/Hong_Kong",
+                "offset": 28800,
+                "offsetHours": "8:00",
+                "abbr": "HKT",
+                "abbrName": "Hong Kong Time",
+                "isDst": false
+            },
+            "visible": true,
+            "website": null,
+            "info": {
+                "terminal": "4",
+                "baggage": null,
+                "gate": null
+            }
+        },
+        "destination": {
+            "name": "Harbin Taiping International Airport",
+            "code": {
+                "iata": "HRB",
+                "icao": "ZYHB"
+            },
+            "position": {
+                "latitude": 45.623402,
+                "longitude": 126.250298,
+                "altitude": 457,
+                "country": {
+                    "id": null,
+                    "name": "China",
+                    "code": "CHN"
+                },
+                "region": {
+                    "city": "Harbin"
+                }
+            },
+            "timezone": {
+                "name": "Asia/Harbin",
+                "offset": 28800,
+                "offsetHours": "8:00",
+                "abbr": "CST",
+                "abbrName": "China Standard Time",
+                "isDst": false
+            },
+            "visible": true,
+            "website": null,
+            "info": {
+                "terminal": null,
+                "baggage": "1",
+                "gate": null
+            }
+        },
+        "real": null
+    },
+    "flightHistory": {
+        "aircraft": [
+            {
+                "identification": {
+                    "id": "34572fd7",
+                    "number": {
+                        "default": "CZ6259"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Harbin Taiping International Airport",
+                        "code": {
+                            "iata": "HRB",
+                            "icao": "ZYHB"
+                        },
+                        "position": {
+                            "latitude": 45.623402,
+                            "longitude": 126.250298,
+                            "altitude": 457,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Harbin"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Harbin",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Hangzhou Xiaoshan International Airport",
+                        "code": {
+                            "iata": "HGH",
+                            "icao": "ZSHC"
+                        },
+                        "position": {
+                            "latitude": 30.2295,
+                            "longitude": 120.434402,
+                            "altitude": 23,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Hangzhou"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Hong_Kong",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "HKT",
+                            "abbrName": "Hong Kong Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710288641
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "3454a96d",
+                    "number": {
+                        "default": "CZ6272"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Sanya Phoenix International Airport",
+                        "code": {
+                            "iata": "SYX",
+                            "icao": "ZJSY"
+                        },
+                        "position": {
+                            "latitude": 18.302891,
+                            "longitude": 109.412201,
+                            "altitude": 92,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Sanya"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Chongqing",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Harbin Taiping International Airport",
+                        "code": {
+                            "iata": "HRB",
+                            "icao": "ZYHB"
+                        },
+                        "position": {
+                            "latitude": 45.623402,
+                            "longitude": 126.250298,
+                            "altitude": 457,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Harbin"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Harbin",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710234853
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "3453fc1e",
+                    "number": {
+                        "default": "CZ6271"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Harbin Taiping International Airport",
+                        "code": {
+                            "iata": "HRB",
+                            "icao": "ZYHB"
+                        },
+                        "position": {
+                            "latitude": 45.623402,
+                            "longitude": 126.250298,
+                            "altitude": 457,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Harbin"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Harbin",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Sanya Phoenix International Airport",
+                        "code": {
+                            "iata": "SYX",
+                            "icao": "ZJSY"
+                        },
+                        "position": {
+                            "latitude": 18.302891,
+                            "longitude": 109.412201,
+                            "altitude": 92,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Sanya"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Chongqing",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710209261
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "3451906e",
+                    "number": {
+                        "default": "CZ3905"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Guangzhou Baiyun International Airport",
+                        "code": {
+                            "iata": "CAN",
+                            "icao": "ZGGG"
+                        },
+                        "position": {
+                            "latitude": 23.392429,
+                            "longitude": 113.298698,
+                            "altitude": 50,
+                            "country": {
+                                "id": 46,
+                                "name": "China",
+                                "code": "CN",
+                                "codeLong": "CHN"
+                            },
+                            "region": {
+                                "city": "Guangzhou"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": "http://www.gbiac.net/en/byhome"
+                    },
+                    "destination": {
+                        "name": "Harbin Taiping International Airport",
+                        "code": {
+                            "iata": "HRB",
+                            "icao": "ZYHB"
+                        },
+                        "position": {
+                            "latitude": 45.623402,
+                            "longitude": 126.250298,
+                            "altitude": 457,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Harbin"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Harbin",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710158753
+                    }
+                }
+            }
+        ]
+    },
+    "ems": null,
+    "availability": [
+        "AGE",
+        "MSN"
+    ],
+    "time": {
+        "scheduled": {
+            "departure": 1710305400,
+            "arrival": 1710317700
+        },
+        "real": {
+            "departure": null,
+            "arrival": null
+        },
+        "estimated": {
+            "departure": 1710306660,
+            "arrival": null
+        },
+        "other": {
+            "eta": 0,
+            "updated": 1710304967
+        },
+        "historical": {
+            "flighttime": "10024",
+            "delay": "-1466"
+        }
+    },
+    "trail": [
+        {
+            "lat": 30.239985,
+            "lng": 120.425705,
+            "alt": 0,
+            "spd": 2,
+            "ts": 1710304748,
+            "hd": 320
+        },
+        {
+            "lat": 30.23983,
+            "lng": 120.425301,
+            "alt": 0,
+            "spd": 0,
+            "ts": 1710304713,
+            "hd": 66
+        }
+    ],
+    "firstTimestamp": 1710304713,
+    "s": "esikIrZ2iZbAPLEXpqEHyDsdQkUq-IFnVcGDqpbx_o7KTiRrOMbdgMhWzUdqQZDc"
+}

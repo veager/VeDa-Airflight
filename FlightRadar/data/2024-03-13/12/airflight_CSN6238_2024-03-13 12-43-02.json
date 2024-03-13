@@ -1,0 +1,782 @@
+{
+    "identification": {
+        "id": "3457aead",
+        "row": 5480612541,
+        "number": {
+            "default": "CZ6238",
+            "alternative": null
+        },
+        "callsign": "CSN6238"
+    },
+    "status": {
+        "live": true,
+        "text": "Estimated- 15:00",
+        "icon": "green",
+        "estimated": null,
+        "ambiguous": false,
+        "generic": {
+            "status": {
+                "text": "estimated",
+                "color": "green",
+                "type": "arrival"
+            },
+            "eventTime": {
+                "utc": 1710313216,
+                "local": 1710342016
+            }
+        }
+    },
+    "level": "limited",
+    "promote": false,
+    "aircraft": {
+        "model": {
+            "code": "A321",
+            "text": "Airbus A321-231"
+        },
+        "countryId": 46,
+        "registration": "B-1831",
+        "age": null,
+        "msn": null,
+        "images": {
+            "thumbnails": [
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/724404_1707725576_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11242308",
+                    "copyright": "HETZhezi",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/1442783_1703609394_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11188427",
+                    "copyright": "LYX20014",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/6/526854_1693304141_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11074932",
+                    "copyright": "Eric Wang",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/6/1043653_1684679945_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10959489",
+                    "copyright": "NP0921",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/6/15939_1671686502_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10822757",
+                    "copyright": "Lazy Clutch",
+                    "source": "Jetphotos"
+                }
+            ],
+            "medium": [
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/724404_1707725576.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11242308",
+                    "copyright": "HETZhezi",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/1442783_1703609394.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11188427",
+                    "copyright": "LYX20014",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/6/526854_1693304141.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11074932",
+                    "copyright": "Eric Wang",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/6/1043653_1684679945.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10959489",
+                    "copyright": "NP0921",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/6/15939_1671686502.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10822757",
+                    "copyright": "Lazy Clutch",
+                    "source": "Jetphotos"
+                }
+            ],
+            "large": [
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/724404_1707725576.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11242308",
+                    "copyright": "HETZhezi",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/1442783_1703609394.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11188427",
+                    "copyright": "LYX20014",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/6/526854_1693304141.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11074932",
+                    "copyright": "Eric Wang",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/6/1043653_1684679945.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10959489",
+                    "copyright": "NP0921",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/6/15939_1671686502.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10822757",
+                    "copyright": "Lazy Clutch",
+                    "source": "Jetphotos"
+                }
+            ]
+        },
+        "hex": "780c3f"
+    },
+    "airline": {
+        "name": "China Southern Airlines",
+        "short": "China Southern Airlines",
+        "code": {
+            "iata": "CZ",
+            "icao": "CSN"
+        },
+        "url": "china-southern-airlines-csn"
+    },
+    "owner": null,
+    "airspace": null,
+    "airport": {
+        "origin": {
+            "name": "Xi'an Xianyang International Airport",
+            "code": {
+                "iata": "XIY",
+                "icao": "ZLXY"
+            },
+            "position": {
+                "latitude": 34.447109,
+                "longitude": 108.751503,
+                "altitude": 1572,
+                "country": {
+                    "id": null,
+                    "name": "China",
+                    "code": "CHN"
+                },
+                "region": {
+                    "city": "Xi'an"
+                }
+            },
+            "timezone": {
+                "name": "Asia/Chongqing",
+                "offset": 28800,
+                "offsetHours": "8:00",
+                "abbr": "CST",
+                "abbrName": "China Standard Time",
+                "isDst": false
+            },
+            "visible": true,
+            "website": null,
+            "info": {
+                "terminal": "3",
+                "baggage": null,
+                "gate": null
+            }
+        },
+        "destination": {
+            "name": "Shenzhen Bao'an International Airport",
+            "code": {
+                "iata": "SZX",
+                "icao": "ZGSZ"
+            },
+            "position": {
+                "latitude": 22.638775,
+                "longitude": 113.803993,
+                "altitude": -11,
+                "country": {
+                    "id": 46,
+                    "name": "China",
+                    "code": "CN",
+                    "codeLong": "CHN"
+                },
+                "region": {
+                    "city": "Shenzhen"
+                }
+            },
+            "timezone": {
+                "name": "Asia/Shanghai",
+                "offset": 28800,
+                "offsetHours": "8:00",
+                "abbr": "CST",
+                "abbrName": "China Standard Time",
+                "isDst": false
+            },
+            "visible": true,
+            "website": "http://eng.szairport.com/",
+            "info": {
+                "terminal": "T3",
+                "baggage": null,
+                "gate": null
+            }
+        },
+        "real": null
+    },
+    "flightHistory": {
+        "aircraft": [
+            {
+                "identification": {
+                    "id": "345735d0",
+                    "number": {
+                        "default": "CZ6237"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Shenzhen Bao'an International Airport",
+                        "code": {
+                            "iata": "SZX",
+                            "icao": "ZGSZ"
+                        },
+                        "position": {
+                            "latitude": 22.638775,
+                            "longitude": 113.803993,
+                            "altitude": -11,
+                            "country": {
+                                "id": 46,
+                                "name": "China",
+                                "code": "CN",
+                                "codeLong": "CHN"
+                            },
+                            "region": {
+                                "city": "Shenzhen"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": "http://eng.szairport.com/"
+                    },
+                    "destination": {
+                        "name": "Xi'an Xianyang International Airport",
+                        "code": {
+                            "iata": "XIY",
+                            "icao": "ZLXY"
+                        },
+                        "position": {
+                            "latitude": 34.447109,
+                            "longitude": 108.751503,
+                            "altitude": 1572,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Xi'an"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Chongqing",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710289975
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "34555707",
+                    "number": {
+                        "default": "CZ6756"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Shanghai Pudong International Airport",
+                        "code": {
+                            "iata": "PVG",
+                            "icao": "ZSPD"
+                        },
+                        "position": {
+                            "latitude": 31.14337,
+                            "longitude": 121.805199,
+                            "altitude": 13,
+                            "country": {
+                                "id": 46,
+                                "name": "China",
+                                "code": "CN",
+                                "codeLong": "CHN"
+                            },
+                            "region": {
+                                "city": "Shanghai"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": "http://www.shanghaiairport.com/en/index.jsp"
+                    },
+                    "destination": {
+                        "name": "Shenzhen Bao'an International Airport",
+                        "code": {
+                            "iata": "SZX",
+                            "icao": "ZGSZ"
+                        },
+                        "position": {
+                            "latitude": 22.638775,
+                            "longitude": 113.803993,
+                            "altitude": -11,
+                            "country": {
+                                "id": 46,
+                                "name": "China",
+                                "code": "CN",
+                                "codeLong": "CHN"
+                            },
+                            "region": {
+                                "city": "Shenzhen"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": "http://eng.szairport.com/"
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710252840
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "3454c62e",
+                    "number": {
+                        "default": "CZ8205"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Shenzhen Bao'an International Airport",
+                        "code": {
+                            "iata": "SZX",
+                            "icao": "ZGSZ"
+                        },
+                        "position": {
+                            "latitude": 22.638775,
+                            "longitude": 113.803993,
+                            "altitude": -11,
+                            "country": {
+                                "id": 46,
+                                "name": "China",
+                                "code": "CN",
+                                "codeLong": "CHN"
+                            },
+                            "region": {
+                                "city": "Shenzhen"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": "http://eng.szairport.com/"
+                    },
+                    "destination": {
+                        "name": "Shanghai Pudong International Airport",
+                        "code": {
+                            "iata": "PVG",
+                            "icao": "ZSPD"
+                        },
+                        "position": {
+                            "latitude": 31.14337,
+                            "longitude": 121.805199,
+                            "altitude": 13,
+                            "country": {
+                                "id": 46,
+                                "name": "China",
+                                "code": "CN",
+                                "codeLong": "CHN"
+                            },
+                            "region": {
+                                "city": "Shanghai"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": "http://www.shanghaiairport.com/en/index.jsp"
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710239723
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "34543055",
+                    "number": {
+                        "default": "CZ6238"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Xi'an Xianyang International Airport",
+                        "code": {
+                            "iata": "XIY",
+                            "icao": "ZLXY"
+                        },
+                        "position": {
+                            "latitude": 34.447109,
+                            "longitude": 108.751503,
+                            "altitude": 1572,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Xi'an"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Chongqing",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Shenzhen Bao'an International Airport",
+                        "code": {
+                            "iata": "SZX",
+                            "icao": "ZGSZ"
+                        },
+                        "position": {
+                            "latitude": 22.638775,
+                            "longitude": 113.803993,
+                            "altitude": -11,
+                            "country": {
+                                "id": 46,
+                                "name": "China",
+                                "code": "CN",
+                                "codeLong": "CHN"
+                            },
+                            "region": {
+                                "city": "Shenzhen"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": "http://eng.szairport.com/"
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710216926
+                    }
+                }
+            }
+        ]
+    },
+    "ems": null,
+    "availability": [
+        "AGE",
+        "MSN"
+    ],
+    "time": {
+        "scheduled": {
+            "departure": 1710302400,
+            "arrival": 1710313500
+        },
+        "real": {
+            "departure": 1710304586,
+            "arrival": null
+        },
+        "estimated": {
+            "departure": null,
+            "arrival": 1710313216
+        },
+        "other": {
+            "eta": 1710313216,
+            "updated": 1710304967
+        },
+        "historical": {
+            "flighttime": "8857",
+            "delay": "-567"
+        }
+    },
+    "trail": [
+        {
+            "lat": 34.092636,
+            "lng": 108.512131,
+            "alt": 13625,
+            "spd": 311,
+            "ts": 1710304969,
+            "hd": 192
+        },
+        {
+            "lat": 34.136524,
+            "lng": 108.523468,
+            "alt": 12350,
+            "spd": 308,
+            "ts": 1710304938,
+            "hd": 192
+        },
+        {
+            "lat": 34.143784,
+            "lng": 108.525352,
+            "alt": 12200,
+            "spd": 306,
+            "ts": 1710304933,
+            "hd": 193
+        },
+        {
+            "lat": 34.165054,
+            "lng": 108.533203,
+            "alt": 11850,
+            "spd": 292,
+            "ts": 1710304917,
+            "hd": 204
+        },
+        {
+            "lat": 34.183548,
+            "lng": 108.543686,
+            "alt": 11325,
+            "spd": 288,
+            "ts": 1710304902,
+            "hd": 205
+        },
+        {
+            "lat": 34.202911,
+            "lng": 108.554672,
+            "alt": 10650,
+            "spd": 288,
+            "ts": 1710304886,
+            "hd": 205
+        },
+        {
+            "lat": 34.22097,
+            "lng": 108.565002,
+            "alt": 10100,
+            "spd": 284,
+            "ts": 1710304871,
+            "hd": 205
+        },
+        {
+            "lat": 34.240494,
+            "lng": 108.576309,
+            "alt": 9425,
+            "spd": 280,
+            "ts": 1710304854,
+            "hd": 205
+        },
+        {
+            "lat": 34.258026,
+            "lng": 108.58651,
+            "alt": 8700,
+            "spd": 283,
+            "ts": 1710304839,
+            "hd": 205
+        },
+        {
+            "lat": 34.2766,
+            "lng": 108.597336,
+            "alt": 7950,
+            "spd": 283,
+            "ts": 1710304824,
+            "hd": 206
+        },
+        {
+            "lat": 34.294693,
+            "lng": 108.607979,
+            "alt": 7375,
+            "spd": 277,
+            "ts": 1710304808,
+            "hd": 205
+        },
+        {
+            "lat": 34.312538,
+            "lng": 108.618454,
+            "alt": 6675,
+            "spd": 277,
+            "ts": 1710304793,
+            "hd": 206
+        },
+        {
+            "lat": 34.318401,
+            "lng": 108.621994,
+            "alt": 6450,
+            "spd": 275,
+            "ts": 1710304787,
+            "hd": 207
+        },
+        {
+            "lat": 34.324501,
+            "lng": 108.625832,
+            "alt": 6250,
+            "spd": 274,
+            "ts": 1710304782,
+            "hd": 209
+        },
+        {
+            "lat": 34.330784,
+            "lng": 108.630066,
+            "alt": 6100,
+            "spd": 270,
+            "ts": 1710304776,
+            "hd": 214
+        },
+        {
+            "lat": 34.335533,
+            "lng": 108.633896,
+            "alt": 6000,
+            "spd": 263,
+            "ts": 1710304772,
+            "hd": 220
+        },
+        {
+            "lat": 34.348381,
+            "lng": 108.64975,
+            "alt": 5700,
+            "spd": 244,
+            "ts": 1710304756,
+            "hd": 229
+        },
+        {
+            "lat": 34.35965,
+            "lng": 108.66555,
+            "alt": 5375,
+            "spd": 223,
+            "ts": 1710304741,
+            "hd": 228
+        },
+        {
+            "lat": 34.369812,
+            "lng": 108.679726,
+            "alt": 5150,
+            "spd": 206,
+            "ts": 1710304725,
+            "hd": 229
+        },
+        {
+            "lat": 34.376453,
+            "lng": 108.689003,
+            "alt": 4975,
+            "spd": 195,
+            "ts": 1710304715,
+            "hd": 229
+        },
+        {
+            "lat": 34.383156,
+            "lng": 108.698441,
+            "alt": 4775,
+            "spd": 185,
+            "ts": 1710304704,
+            "hd": 229
+        },
+        {
+            "lat": 34.388046,
+            "lng": 108.7052,
+            "alt": 4625,
+            "spd": 173,
+            "ts": 1710304694,
+            "hd": 229
+        },
+        {
+            "lat": 34.393398,
+            "lng": 108.712692,
+            "alt": 4375,
+            "spd": 166,
+            "ts": 1710304684,
+            "hd": 229
+        },
+        {
+            "lat": 34.39888,
+            "lng": 108.720367,
+            "alt": 4025,
+            "spd": 165,
+            "ts": 1710304673,
+            "hd": 229
+        },
+        {
+            "lat": 34.40406,
+            "lng": 108.727631,
+            "alt": 3700,
+            "spd": 163,
+            "ts": 1710304663,
+            "hd": 229
+        },
+        {
+            "lat": 34.40918,
+            "lng": 108.734665,
+            "alt": 3375,
+            "spd": 161,
+            "ts": 1710304653,
+            "hd": 228
+        },
+        {
+            "lat": 34.413929,
+            "lng": 108.741135,
+            "alt": 2975,
+            "spd": 162,
+            "ts": 1710304642,
+            "hd": 228
+        }
+    ],
+    "firstTimestamp": 1710304642,
+    "s": "m065jvV_fH_oQg5otd91W_hwwWrtvo_V7OqATbnZeVEr2OVJ1yWDtoy9ie9g4mzl"
+}

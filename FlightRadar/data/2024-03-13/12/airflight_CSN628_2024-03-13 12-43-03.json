@@ -1,0 +1,632 @@
+{
+    "identification": {
+        "id": "3457aeed",
+        "row": 5480843563,
+        "number": {
+            "default": "CZ628",
+            "alternative": null
+        },
+        "callsign": "CSN628"
+    },
+    "status": {
+        "live": true,
+        "text": "Scheduled",
+        "icon": null,
+        "estimated": null,
+        "ambiguous": false,
+        "generic": {
+            "status": {
+                "text": "scheduled",
+                "color": "gray",
+                "type": "arrival"
+            }
+        }
+    },
+    "level": "limited",
+    "promote": false,
+    "aircraft": {
+        "model": {
+            "code": "A321",
+            "text": "Airbus A321-231"
+        },
+        "countryId": 46,
+        "registration": "B-6308",
+        "age": null,
+        "msn": null,
+        "images": {
+            "thumbnails": [
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/1499265_1705942252_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11218731",
+                    "copyright": "Kais_",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/1246165_1696239963_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11107706",
+                    "copyright": "FJL767400",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/745629_1678865570_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10910379",
+                    "copyright": "bestloveSVD",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/6/74191_1661691455_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10702119",
+                    "copyright": "Lazy Clutch",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/49193_1658395095_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10657326",
+                    "copyright": "Eric Wang",
+                    "source": "Jetphotos"
+                }
+            ],
+            "medium": [
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/1499265_1705942252.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11218731",
+                    "copyright": "Kais_",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/1246165_1696239963.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11107706",
+                    "copyright": "FJL767400",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/745629_1678865570.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10910379",
+                    "copyright": "bestloveSVD",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/6/74191_1661691455.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10702119",
+                    "copyright": "Lazy Clutch",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/49193_1658395095.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10657326",
+                    "copyright": "Eric Wang",
+                    "source": "Jetphotos"
+                }
+            ],
+            "large": [
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/1499265_1705942252.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11218731",
+                    "copyright": "Kais_",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/1246165_1696239963.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11107706",
+                    "copyright": "FJL767400",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/745629_1678865570.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10910379",
+                    "copyright": "bestloveSVD",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/6/74191_1661691455.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10702119",
+                    "copyright": "Lazy Clutch",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/49193_1658395095.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10657326",
+                    "copyright": "Eric Wang",
+                    "source": "Jetphotos"
+                }
+            ]
+        },
+        "hex": "7802ef"
+    },
+    "airline": {
+        "name": "China Southern Airlines",
+        "short": "China Southern Airlines",
+        "code": {
+            "iata": "CZ",
+            "icao": "CSN"
+        },
+        "url": "china-southern-airlines-csn"
+    },
+    "owner": null,
+    "airspace": null,
+    "airport": {
+        "origin": {
+            "name": "Tokyo Narita International Airport",
+            "code": {
+                "iata": "NRT",
+                "icao": "RJAA"
+            },
+            "position": {
+                "latitude": 35.764721,
+                "longitude": 140.386307,
+                "altitude": 135,
+                "country": {
+                    "id": 111,
+                    "name": "Japan",
+                    "code": "JP",
+                    "codeLong": "JPN"
+                },
+                "region": {
+                    "city": "Tokyo"
+                }
+            },
+            "timezone": {
+                "name": "Asia/Tokyo",
+                "offset": 32400,
+                "offsetHours": "9:00",
+                "abbr": "JST",
+                "abbrName": "Japan Standard Time",
+                "isDst": false
+            },
+            "visible": true,
+            "website": "http://www.narita-airport.jp/en/",
+            "info": {
+                "terminal": "1",
+                "baggage": null,
+                "gate": "15"
+            }
+        },
+        "destination": {
+            "name": "Shenyang Taoxian International Airport",
+            "code": {
+                "iata": "SHE",
+                "icao": "ZYTX"
+            },
+            "position": {
+                "latitude": 41.639839,
+                "longitude": 123.483398,
+                "altitude": 198,
+                "country": {
+                    "id": null,
+                    "name": "China",
+                    "code": "CHN"
+                },
+                "region": {
+                    "city": "Shenyang"
+                }
+            },
+            "timezone": {
+                "name": "Asia/Shanghai",
+                "offset": 28800,
+                "offsetHours": "8:00",
+                "abbr": "CST",
+                "abbrName": "China Standard Time",
+                "isDst": false
+            },
+            "visible": true,
+            "website": null,
+            "info": {
+                "terminal": null,
+                "baggage": null,
+                "gate": null
+            }
+        },
+        "real": null
+    },
+    "flightHistory": {
+        "aircraft": [
+            {
+                "identification": {
+                    "id": "34573fae",
+                    "number": {
+                        "default": "CZ627"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Shenyang Taoxian International Airport",
+                        "code": {
+                            "iata": "SHE",
+                            "icao": "ZYTX"
+                        },
+                        "position": {
+                            "latitude": 41.639839,
+                            "longitude": 123.483398,
+                            "altitude": 198,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Shenyang"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Tokyo Narita International Airport",
+                        "code": {
+                            "iata": "NRT",
+                            "icao": "RJAA"
+                        },
+                        "position": {
+                            "latitude": 35.764721,
+                            "longitude": 140.386307,
+                            "altitude": 135,
+                            "country": {
+                                "id": 111,
+                                "name": "Japan",
+                                "code": "JP",
+                                "codeLong": "JPN"
+                            },
+                            "region": {
+                                "city": "Tokyo"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Tokyo",
+                            "offset": 32400,
+                            "offsetHours": "9:00",
+                            "abbr": "JST",
+                            "abbrName": "Japan Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": "http://www.narita-airport.jp/en/"
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710290885
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "3454383f",
+                    "number": {
+                        "default": "CZ628"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Tokyo Narita International Airport",
+                        "code": {
+                            "iata": "NRT",
+                            "icao": "RJAA"
+                        },
+                        "position": {
+                            "latitude": 35.764721,
+                            "longitude": 140.386307,
+                            "altitude": 135,
+                            "country": {
+                                "id": 111,
+                                "name": "Japan",
+                                "code": "JP",
+                                "codeLong": "JPN"
+                            },
+                            "region": {
+                                "city": "Tokyo"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Tokyo",
+                            "offset": 32400,
+                            "offsetHours": "9:00",
+                            "abbr": "JST",
+                            "abbrName": "Japan Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": "http://www.narita-airport.jp/en/"
+                    },
+                    "destination": {
+                        "name": "Shenyang Taoxian International Airport",
+                        "code": {
+                            "iata": "SHE",
+                            "icao": "ZYTX"
+                        },
+                        "position": {
+                            "latitude": 41.639839,
+                            "longitude": 123.483398,
+                            "altitude": 198,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Shenyang"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710219522
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "3453c410",
+                    "number": {
+                        "default": "CZ627"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Shenyang Taoxian International Airport",
+                        "code": {
+                            "iata": "SHE",
+                            "icao": "ZYTX"
+                        },
+                        "position": {
+                            "latitude": 41.639839,
+                            "longitude": 123.483398,
+                            "altitude": 198,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Shenyang"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Tokyo Narita International Airport",
+                        "code": {
+                            "iata": "NRT",
+                            "icao": "RJAA"
+                        },
+                        "position": {
+                            "latitude": 35.764721,
+                            "longitude": 140.386307,
+                            "altitude": 135,
+                            "country": {
+                                "id": 111,
+                                "name": "Japan",
+                                "code": "JP",
+                                "codeLong": "JPN"
+                            },
+                            "region": {
+                                "city": "Tokyo"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Tokyo",
+                            "offset": 32400,
+                            "offsetHours": "9:00",
+                            "abbr": "JST",
+                            "abbrName": "Japan Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": "http://www.narita-airport.jp/en/"
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710203492
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "3450d205",
+                    "number": {
+                        "default": "CZ628"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Tokyo Narita International Airport",
+                        "code": {
+                            "iata": "NRT",
+                            "icao": "RJAA"
+                        },
+                        "position": {
+                            "latitude": 35.764721,
+                            "longitude": 140.386307,
+                            "altitude": 135,
+                            "country": {
+                                "id": 111,
+                                "name": "Japan",
+                                "code": "JP",
+                                "codeLong": "JPN"
+                            },
+                            "region": {
+                                "city": "Tokyo"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Tokyo",
+                            "offset": 32400,
+                            "offsetHours": "9:00",
+                            "abbr": "JST",
+                            "abbrName": "Japan Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": "http://www.narita-airport.jp/en/"
+                    },
+                    "destination": {
+                        "name": "Shenyang Taoxian International Airport",
+                        "code": {
+                            "iata": "SHE",
+                            "icao": "ZYTX"
+                        },
+                        "position": {
+                            "latitude": 41.639839,
+                            "longitude": 123.483398,
+                            "altitude": 198,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Shenyang"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710132202
+                    }
+                }
+            }
+        ]
+    },
+    "ems": null,
+    "availability": [
+        "AGE",
+        "MSN"
+    ],
+    "time": {
+        "scheduled": {
+            "departure": 1710304800,
+            "arrival": 1710318000
+        },
+        "real": {
+            "departure": null,
+            "arrival": null
+        },
+        "estimated": {
+            "departure": 1710305160,
+            "arrival": null
+        },
+        "other": {
+            "eta": 0,
+            "updated": 1710304669
+        },
+        "historical": {
+            "flighttime": "10665",
+            "delay": "-1638"
+        }
+    },
+    "trail": [
+        {
+            "lat": 35.7682,
+            "lng": 140.382538,
+            "alt": 0,
+            "spd": 9,
+            "ts": 1710304982,
+            "hd": 225
+        },
+        {
+            "lat": 35.768448,
+            "lng": 140.382858,
+            "alt": 0,
+            "spd": 5,
+            "ts": 1710304971,
+            "hd": 241
+        },
+        {
+            "lat": 35.768539,
+            "lng": 140.383118,
+            "alt": 0,
+            "spd": 0,
+            "ts": 1710304918,
+            "hd": 241
+        },
+        {
+            "lat": 35.767933,
+            "lng": 140.383255,
+            "alt": 0,
+            "spd": 0,
+            "ts": 1710304873,
+            "hd": 241
+        },
+        {
+            "lat": 35.768406,
+            "lng": 140.382965,
+            "alt": 0,
+            "spd": 2,
+            "ts": 1710304770,
+            "hd": 225
+        },
+        {
+            "lat": 35.7682,
+            "lng": 140.383041,
+            "alt": 0,
+            "spd": 2,
+            "ts": 1710304751,
+            "hd": 177
+        },
+        {
+            "lat": 35.767914,
+            "lng": 140.383286,
+            "alt": 0,
+            "spd": 0,
+            "ts": 1710304725,
+            "hd": 143
+        },
+        {
+            "lat": 35.767677,
+            "lng": 140.383484,
+            "alt": 0,
+            "spd": 2,
+            "ts": 1710304697,
+            "hd": 143
+        },
+        {
+            "lat": 35.76741,
+            "lng": 140.383636,
+            "alt": 0,
+            "spd": 1,
+            "ts": 1710304669,
+            "hd": 143
+        }
+    ],
+    "firstTimestamp": 1710304669,
+    "s": "GLJoCgHG1FbOTBX8d64B3EGFz0CkXRyOMdZX_OOli9TNz4s3vyn7EOBeVY1gmZz5"
+}

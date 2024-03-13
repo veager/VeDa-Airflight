@@ -1,0 +1,647 @@
+{
+    "identification": {
+        "id": "3457ae37",
+        "row": 5480843884,
+        "number": {
+            "default": "CZ6059",
+            "alternative": null
+        },
+        "callsign": "CSN6059"
+    },
+    "status": {
+        "live": true,
+        "text": "Estimated- 14:08",
+        "icon": "green",
+        "estimated": null,
+        "ambiguous": false,
+        "generic": {
+            "status": {
+                "text": "estimated",
+                "color": "green",
+                "type": "arrival"
+            },
+            "eventTime": {
+                "utc": 1710313728,
+                "local": 1710338928
+            }
+        }
+    },
+    "level": "limited",
+    "promote": false,
+    "aircraft": {
+        "model": {
+            "code": "A320",
+            "text": "Airbus A320-214"
+        },
+        "countryId": 46,
+        "registration": "B-1803",
+        "age": null,
+        "msn": null,
+        "images": {
+            "thumbnails": [
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/845079_1705328959_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11211249",
+                    "copyright": "anselm95",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/6/1730334_1687834855_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11009588",
+                    "copyright": "Ben Lingge",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/1173501_1704116689_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11194028",
+                    "copyright": "AGUIJUN-Lei",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/6/591584_1684284138_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10972498",
+                    "copyright": "Ultron Chen",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/6/736449_1681292908_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10937276",
+                    "copyright": "LYX20014",
+                    "source": "Jetphotos"
+                }
+            ],
+            "medium": [
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/845079_1705328959.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11211249",
+                    "copyright": "anselm95",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/6/1730334_1687834855.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11009588",
+                    "copyright": "Ben Lingge",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/1173501_1704116689.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11194028",
+                    "copyright": "AGUIJUN-Lei",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/6/591584_1684284138.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10972498",
+                    "copyright": "Ultron Chen",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/6/736449_1681292908.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10937276",
+                    "copyright": "LYX20014",
+                    "source": "Jetphotos"
+                }
+            ],
+            "large": [
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/845079_1705328959.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11211249",
+                    "copyright": "anselm95",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/6/1730334_1687834855.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11009588",
+                    "copyright": "Ben Lingge",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/1173501_1704116689.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11194028",
+                    "copyright": "AGUIJUN-Lei",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/6/591584_1684284138.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10972498",
+                    "copyright": "Ultron Chen",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/6/736449_1681292908.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10937276",
+                    "copyright": "LYX20014",
+                    "source": "Jetphotos"
+                }
+            ]
+        },
+        "hex": "780bd6"
+    },
+    "airline": {
+        "name": "China Southern Airlines",
+        "short": "China Southern Airlines",
+        "code": {
+            "iata": "CZ",
+            "icao": "CSN"
+        },
+        "url": "china-southern-airlines-csn"
+    },
+    "owner": null,
+    "airspace": null,
+    "airport": {
+        "origin": {
+            "name": "Guangzhou Baiyun International Airport",
+            "code": {
+                "iata": "CAN",
+                "icao": "ZGGG"
+            },
+            "position": {
+                "latitude": 23.392429,
+                "longitude": 113.298698,
+                "altitude": 50,
+                "country": {
+                    "id": 46,
+                    "name": "China",
+                    "code": "CN",
+                    "codeLong": "CHN"
+                },
+                "region": {
+                    "city": "Guangzhou"
+                }
+            },
+            "timezone": {
+                "name": "Asia/Shanghai",
+                "offset": 28800,
+                "offsetHours": "8:00",
+                "abbr": "CST",
+                "abbrName": "China Standard Time",
+                "isDst": false
+            },
+            "visible": true,
+            "website": "http://www.gbiac.net/en/byhome",
+            "info": {
+                "terminal": "2",
+                "baggage": null,
+                "gate": "K,P"
+            }
+        },
+        "destination": {
+            "name": "Phnom Penh International Airport",
+            "code": {
+                "iata": "PNH",
+                "icao": "VDPP"
+            },
+            "position": {
+                "latitude": 11.54655,
+                "longitude": 104.844101,
+                "altitude": 40,
+                "country": {
+                    "id": null,
+                    "name": "Cambodia",
+                    "code": "KHM"
+                },
+                "region": {
+                    "city": "Phnom Penh"
+                }
+            },
+            "timezone": {
+                "name": "Asia/Phnom_Penh",
+                "offset": 25200,
+                "offsetHours": "7:00",
+                "abbr": "+07",
+                "abbrName": "",
+                "isDst": false
+            },
+            "visible": true,
+            "website": "http://www.cambodia-airports.com/index.php?lang=en",
+            "info": {
+                "terminal": null,
+                "baggage": null,
+                "gate": null
+            }
+        },
+        "real": null
+    },
+    "flightHistory": {
+        "aircraft": [
+            {
+                "identification": {
+                    "id": "345720fa",
+                    "number": {
+                        "default": "CZ8262"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Huangyan Luqiao Airport",
+                        "code": {
+                            "iata": "HYN",
+                            "icao": "ZSLQ"
+                        },
+                        "position": {
+                            "latitude": 28.56222,
+                            "longitude": 121.428596,
+                            "altitude": 197,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Huangyan"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Guangzhou Baiyun International Airport",
+                        "code": {
+                            "iata": "CAN",
+                            "icao": "ZGGG"
+                        },
+                        "position": {
+                            "latitude": 23.392429,
+                            "longitude": 113.298698,
+                            "altitude": 50,
+                            "country": {
+                                "id": 46,
+                                "name": "China",
+                                "code": "CN",
+                                "codeLong": "CHN"
+                            },
+                            "region": {
+                                "city": "Guangzhou"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": "http://www.gbiac.net/en/byhome"
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710286920
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "345546e4",
+                    "number": {
+                        "default": "CZ8261"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Guangzhou Baiyun International Airport",
+                        "code": {
+                            "iata": "CAN",
+                            "icao": "ZGGG"
+                        },
+                        "position": {
+                            "latitude": 23.392429,
+                            "longitude": 113.298698,
+                            "altitude": 50,
+                            "country": {
+                                "id": 46,
+                                "name": "China",
+                                "code": "CN",
+                                "codeLong": "CHN"
+                            },
+                            "region": {
+                                "city": "Guangzhou"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": "http://www.gbiac.net/en/byhome"
+                    },
+                    "destination": {
+                        "name": "Huangyan Luqiao Airport",
+                        "code": {
+                            "iata": "HYN",
+                            "icao": "ZSLQ"
+                        },
+                        "position": {
+                            "latitude": 28.56222,
+                            "longitude": 121.428596,
+                            "altitude": 197,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Huangyan"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710250422
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "345472ae",
+                    "number": {
+                        "default": "CZ6743"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Sanya Phoenix International Airport",
+                        "code": {
+                            "iata": "SYX",
+                            "icao": "ZJSY"
+                        },
+                        "position": {
+                            "latitude": 18.302891,
+                            "longitude": 109.412201,
+                            "altitude": 92,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Sanya"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Chongqing",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Guangzhou Baiyun International Airport",
+                        "code": {
+                            "iata": "CAN",
+                            "icao": "ZGGG"
+                        },
+                        "position": {
+                            "latitude": 23.392429,
+                            "longitude": 113.298698,
+                            "altitude": 50,
+                            "country": {
+                                "id": 46,
+                                "name": "China",
+                                "code": "CN",
+                                "codeLong": "CHN"
+                            },
+                            "region": {
+                                "city": "Guangzhou"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": "http://www.gbiac.net/en/byhome"
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710227006
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "34542e2e",
+                    "number": {
+                        "default": null
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Guangzhou Baiyun International Airport",
+                        "code": {
+                            "iata": "CAN",
+                            "icao": "ZGGG"
+                        },
+                        "position": {
+                            "latitude": 23.392429,
+                            "longitude": 113.298698,
+                            "altitude": 50,
+                            "country": {
+                                "id": 46,
+                                "name": "China",
+                                "code": "CN",
+                                "codeLong": "CHN"
+                            },
+                            "region": {
+                                "city": "Guangzhou"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": "http://www.gbiac.net/en/byhome"
+                    },
+                    "destination": null
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710216500
+                    }
+                }
+            }
+        ]
+    },
+    "ems": null,
+    "availability": [
+        "AGE",
+        "MSN"
+    ],
+    "time": {
+        "scheduled": {
+            "departure": 1710304500,
+            "arrival": 1710315300
+        },
+        "real": {
+            "departure": 1710304720,
+            "arrival": null
+        },
+        "estimated": {
+            "departure": null,
+            "arrival": 1710313728
+        },
+        "other": {
+            "eta": 1710313728,
+            "updated": 1710304905
+        },
+        "historical": {
+            "flighttime": "8825",
+            "delay": "-338"
+        }
+    },
+    "trail": [
+        {
+            "lat": 23.201635,
+            "lng": 113.205162,
+            "alt": 6250,
+            "spd": 244,
+            "ts": 1710304966,
+            "hd": 192
+        },
+        {
+            "lat": 23.218231,
+            "lng": 113.209267,
+            "alt": 5750,
+            "spd": 240,
+            "ts": 1710304951,
+            "hd": 192
+        },
+        {
+            "lat": 23.235106,
+            "lng": 113.213448,
+            "alt": 5250,
+            "spd": 238,
+            "ts": 1710304935,
+            "hd": 192
+        },
+        {
+            "lat": 23.244789,
+            "lng": 113.21579,
+            "alt": 4950,
+            "spd": 237,
+            "ts": 1710304926,
+            "hd": 192
+        },
+        {
+            "lat": 23.249084,
+            "lng": 113.216858,
+            "alt": 4825,
+            "spd": 237,
+            "ts": 1710304922,
+            "hd": 192
+        },
+        {
+            "lat": 23.251465,
+            "lng": 113.217407,
+            "alt": 4750,
+            "spd": 231,
+            "ts": 1710304920,
+            "hd": 192
+        },
+        {
+            "lat": 23.255814,
+            "lng": 113.218452,
+            "alt": 4600,
+            "spd": 231,
+            "ts": 1710304916,
+            "hd": 192
+        },
+        {
+            "lat": 23.259918,
+            "lng": 113.219398,
+            "alt": 4475,
+            "spd": 230,
+            "ts": 1710304912,
+            "hd": 192
+        },
+        {
+            "lat": 23.261921,
+            "lng": 113.21991,
+            "alt": 4400,
+            "spd": 229,
+            "ts": 1710304910,
+            "hd": 192
+        },
+        {
+            "lat": 23.264109,
+            "lng": 113.220421,
+            "alt": 4350,
+            "spd": 228,
+            "ts": 1710304908,
+            "hd": 193
+        },
+        {
+            "lat": 23.267275,
+            "lng": 113.221184,
+            "alt": 4250,
+            "spd": 225,
+            "ts": 1710304905,
+            "hd": 194
+        },
+        {
+            "lat": 23.280169,
+            "lng": 113.226013,
+            "alt": 3950,
+            "spd": 234,
+            "ts": 1710304892,
+            "hd": 209
+        },
+        {
+            "lat": 23.319672,
+            "lng": 113.250168,
+            "alt": 3175,
+            "spd": 179,
+            "ts": 1710304846,
+            "hd": 210
+        },
+        {
+            "lat": 23.336014,
+            "lng": 113.260254,
+            "alt": 2600,
+            "spd": 169,
+            "ts": 1710304822,
+            "hd": 209
+        }
+    ],
+    "firstTimestamp": 1710304822,
+    "s": "xRMmBYXB6XkqekdnBJNWC6phXBJ1Io14hyJt7LaWBOmVGgwjvWUEIuKTWRyvKAa-"
+}

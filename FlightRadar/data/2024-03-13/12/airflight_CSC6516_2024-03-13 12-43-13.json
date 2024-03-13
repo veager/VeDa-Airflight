@@ -1,0 +1,951 @@
+{
+    "identification": {
+        "id": "34577797",
+        "row": 5480553624,
+        "number": {
+            "default": "3U6516",
+            "alternative": null
+        },
+        "callsign": "CSC6516"
+    },
+    "status": {
+        "live": true,
+        "text": "Estimated- 13:15",
+        "icon": "green",
+        "estimated": null,
+        "ambiguous": false,
+        "generic": {
+            "status": {
+                "text": "estimated",
+                "color": "green",
+                "type": "arrival"
+            },
+            "eventTime": {
+                "utc": 1710306944,
+                "local": 1710335744
+            }
+        }
+    },
+    "level": "limited",
+    "promote": false,
+    "aircraft": {
+        "model": {
+            "code": "A320",
+            "text": "Airbus A320-214"
+        },
+        "countryId": 46,
+        "registration": "B-1882",
+        "age": null,
+        "msn": null,
+        "images": {
+            "thumbnails": [
+                {
+                    "src": "https://cdn.jetphotos.com/200/6/935556_1708420390_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11254888",
+                    "copyright": "Star- Flyer",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/694570_1687077579_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11001274",
+                    "copyright": "2420168",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/86266_1674894125_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10863723",
+                    "copyright": "0516Kamino",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/6/82973_1675093895_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10866090",
+                    "copyright": "Haoxiang Hu",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/44561_1658112527_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10653762",
+                    "copyright": "Zhangliming",
+                    "source": "Jetphotos"
+                }
+            ],
+            "medium": [
+                {
+                    "src": "https://cdn.jetphotos.com/400/6/935556_1708420390.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11254888",
+                    "copyright": "Star- Flyer",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/694570_1687077579.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11001274",
+                    "copyright": "2420168",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/86266_1674894125.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10863723",
+                    "copyright": "0516Kamino",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/6/82973_1675093895.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10866090",
+                    "copyright": "Haoxiang Hu",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/44561_1658112527.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10653762",
+                    "copyright": "Zhangliming",
+                    "source": "Jetphotos"
+                }
+            ],
+            "large": [
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/6/935556_1708420390.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11254888",
+                    "copyright": "Star- Flyer",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/694570_1687077579.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11001274",
+                    "copyright": "2420168",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/86266_1674894125.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10863723",
+                    "copyright": "0516Kamino",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/6/82973_1675093895.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10866090",
+                    "copyright": "Haoxiang Hu",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/44561_1658112527.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10653762",
+                    "copyright": "Zhangliming",
+                    "source": "Jetphotos"
+                }
+            ]
+        },
+        "hex": "780ce9"
+    },
+    "airline": {
+        "name": "Sichuan Airlines",
+        "short": "Sichuan Airlines",
+        "code": {
+            "iata": "3U",
+            "icao": "CSC"
+        },
+        "url": "sichuan-airlines-csc"
+    },
+    "owner": null,
+    "airspace": null,
+    "airport": {
+        "origin": {
+            "name": "Urumqi Diwopu International Airport",
+            "code": {
+                "iata": "URC",
+                "icao": "ZWWW"
+            },
+            "position": {
+                "latitude": 43.907101,
+                "longitude": 87.474243,
+                "altitude": 2125,
+                "country": {
+                    "id": null,
+                    "name": "China",
+                    "code": "CHN"
+                },
+                "region": {
+                    "city": "Urumqi"
+                }
+            },
+            "timezone": {
+                "name": "Asia/Shanghai",
+                "offset": 28800,
+                "offsetHours": "8:00",
+                "abbr": "CST",
+                "abbrName": "China Standard Time",
+                "isDst": false
+            },
+            "visible": true,
+            "website": null,
+            "info": {
+                "terminal": "3",
+                "baggage": null,
+                "gate": "B"
+            }
+        },
+        "destination": {
+            "name": "Chengdu Tianfu International Airport",
+            "code": {
+                "iata": "TFU",
+                "icao": "ZUTF"
+            },
+            "position": {
+                "latitude": 30.319,
+                "longitude": 104.445,
+                "altitude": 1444,
+                "country": {
+                    "id": null,
+                    "name": "China",
+                    "code": "CHN"
+                },
+                "region": {
+                    "city": "Chengdu"
+                }
+            },
+            "timezone": {
+                "name": "Asia/Chongqing",
+                "offset": 28800,
+                "offsetHours": "8:00",
+                "abbr": "CST",
+                "abbrName": "China Standard Time",
+                "isDst": false
+            },
+            "visible": true,
+            "website": null,
+            "info": {
+                "terminal": "2",
+                "baggage": null,
+                "gate": null
+            }
+        },
+        "real": null
+    },
+    "flightHistory": {
+        "aircraft": [
+            {
+                "identification": {
+                    "id": "345508cd",
+                    "number": {
+                        "default": "3U6515"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Chengdu Tianfu International Airport",
+                        "code": {
+                            "iata": "TFU",
+                            "icao": "ZUTF"
+                        },
+                        "position": {
+                            "latitude": 30.319,
+                            "longitude": 104.445,
+                            "altitude": 1444,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Chengdu"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Chongqing",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Urumqi Diwopu International Airport",
+                        "code": {
+                            "iata": "URC",
+                            "icao": "ZWWW"
+                        },
+                        "position": {
+                            "latitude": 43.907101,
+                            "longitude": 87.474243,
+                            "altitude": 2125,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Urumqi"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710245501
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "3454968b",
+                    "number": {
+                        "default": "3U6970"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Xuzhou Guanyin Airport",
+                        "code": {
+                            "iata": "XUZ",
+                            "icao": "ZSXZ"
+                        },
+                        "position": {
+                            "latitude": 34.052925,
+                            "longitude": 117.554077,
+                            "altitude": 66,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Xuzhou"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Chengdu Tianfu International Airport",
+                        "code": {
+                            "iata": "TFU",
+                            "icao": "ZUTF"
+                        },
+                        "position": {
+                            "latitude": 30.319,
+                            "longitude": 104.445,
+                            "altitude": 1444,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Chengdu"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Chongqing",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710231987
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "345447d9",
+                    "number": {
+                        "default": "3U6969"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Chengdu Tianfu International Airport",
+                        "code": {
+                            "iata": "TFU",
+                            "icao": "ZUTF"
+                        },
+                        "position": {
+                            "latitude": 30.319,
+                            "longitude": 104.445,
+                            "altitude": 1444,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Chengdu"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Chongqing",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Xuzhou Guanyin Airport",
+                        "code": {
+                            "iata": "XUZ",
+                            "icao": "ZSXZ"
+                        },
+                        "position": {
+                            "latitude": 34.052925,
+                            "longitude": 117.554077,
+                            "altitude": 66,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Xuzhou"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710220593
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "3453cc30",
+                    "number": {
+                        "default": "3U6880"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Beijing Capital International Airport",
+                        "code": {
+                            "iata": "PEK",
+                            "icao": "ZBAA"
+                        },
+                        "position": {
+                            "latitude": 40.084152,
+                            "longitude": 116.592735,
+                            "altitude": 116,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Beijing"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": "http://en.bcia.com.cn/"
+                    },
+                    "destination": {
+                        "name": "Chengdu Tianfu International Airport",
+                        "code": {
+                            "iata": "TFU",
+                            "icao": "ZUTF"
+                        },
+                        "position": {
+                            "latitude": 30.319,
+                            "longitude": 104.445,
+                            "altitude": 1444,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Chengdu"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Chongqing",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710203857
+                    }
+                }
+            }
+        ]
+    },
+    "ems": null,
+    "availability": [
+        "AGE",
+        "MSN"
+    ],
+    "time": {
+        "scheduled": {
+            "departure": 1710295200,
+            "arrival": 1710308400
+        },
+        "real": {
+            "departure": 1710296534,
+            "arrival": null
+        },
+        "estimated": {
+            "departure": null,
+            "arrival": 1710306944
+        },
+        "other": {
+            "eta": 1710306944,
+            "updated": 1710304770
+        },
+        "historical": {
+            "flighttime": "11350",
+            "delay": "-736"
+        }
+    },
+    "trail": [
+        {
+            "lat": 33.03067,
+            "lng": 104.39846,
+            "alt": 26600,
+            "spd": 477,
+            "ts": 1710304964,
+            "hd": 149
+        },
+        {
+            "lat": 34.530941,
+            "lng": 103.348389,
+            "alt": 33125,
+            "spd": 506,
+            "ts": 1710304184,
+            "hd": 149
+        },
+        {
+            "lat": 34.654091,
+            "lng": 103.261993,
+            "alt": 33125,
+            "spd": 500,
+            "ts": 1710304123,
+            "hd": 149
+        },
+        {
+            "lat": 34.76532,
+            "lng": 103.183823,
+            "alt": 33075,
+            "spd": 495,
+            "ts": 1710304067,
+            "hd": 149
+        },
+        {
+            "lat": 35.12714,
+            "lng": 102.927994,
+            "alt": 33075,
+            "spd": 480,
+            "ts": 1710303881,
+            "hd": 149
+        },
+        {
+            "lat": 35.23608,
+            "lng": 102.850227,
+            "alt": 33100,
+            "spd": 480,
+            "ts": 1710303824,
+            "hd": 149
+        },
+        {
+            "lat": 35.345901,
+            "lng": 102.771782,
+            "alt": 33125,
+            "spd": 482,
+            "ts": 1710303767,
+            "hd": 149
+        },
+        {
+            "lat": 35.587509,
+            "lng": 102.598106,
+            "alt": 33100,
+            "spd": 485,
+            "ts": 1710303642,
+            "hd": 149
+        },
+        {
+            "lat": 35.812538,
+            "lng": 102.435654,
+            "alt": 33075,
+            "spd": 476,
+            "ts": 1710303524,
+            "hd": 149
+        },
+        {
+            "lat": 36.155411,
+            "lng": 102.18573,
+            "alt": 33100,
+            "spd": 480,
+            "ts": 1710303344,
+            "hd": 149
+        },
+        {
+            "lat": 36.269829,
+            "lng": 102.101791,
+            "alt": 33100,
+            "spd": 479,
+            "ts": 1710303284,
+            "hd": 149
+        },
+        {
+            "lat": 36.384861,
+            "lng": 102.017113,
+            "alt": 33125,
+            "spd": 479,
+            "ts": 1710303224,
+            "hd": 149
+        },
+        {
+            "lat": 36.732471,
+            "lng": 101.780777,
+            "alt": 33100,
+            "spd": 475,
+            "ts": 1710303044,
+            "hd": 152
+        },
+        {
+            "lat": 36.85025,
+            "lng": 101.7033,
+            "alt": 33125,
+            "spd": 475,
+            "ts": 1710302984,
+            "hd": 152
+        },
+        {
+            "lat": 37.194031,
+            "lng": 101.463097,
+            "alt": 33100,
+            "spd": 480,
+            "ts": 1710302804,
+            "hd": 139
+        },
+        {
+            "lat": 37.735931,
+            "lng": 100.49855,
+            "alt": 33100,
+            "spd": 488,
+            "ts": 1710302385,
+            "hd": 118
+        },
+        {
+            "lat": 37.802929,
+            "lng": 100.34375,
+            "alt": 33100,
+            "spd": 487,
+            "ts": 1710302323,
+            "hd": 118
+        },
+        {
+            "lat": 38.573002,
+            "lng": 98.545471,
+            "alt": 33100,
+            "spd": 477,
+            "ts": 1710301601,
+            "hd": 118
+        },
+        {
+            "lat": 39.307159,
+            "lng": 96.748589,
+            "alt": 33100,
+            "spd": 477,
+            "ts": 1710300884,
+            "hd": 117
+        },
+        {
+            "lat": 39.366669,
+            "lng": 96.599907,
+            "alt": 33100,
+            "spd": 476,
+            "ts": 1710300825,
+            "hd": 117
+        },
+        {
+            "lat": 39.428398,
+            "lng": 96.445007,
+            "alt": 33100,
+            "spd": 476,
+            "ts": 1710300764,
+            "hd": 117
+        },
+        {
+            "lat": 40.076519,
+            "lng": 94.762703,
+            "alt": 33100,
+            "spd": 473,
+            "ts": 1710300104,
+            "hd": 117
+        },
+        {
+            "lat": 40.22998,
+            "lng": 94.486671,
+            "alt": 33100,
+            "spd": 471,
+            "ts": 1710299984,
+            "hd": 128
+        },
+        {
+            "lat": 40.31163,
+            "lng": 94.354332,
+            "alt": 33125,
+            "spd": 472,
+            "ts": 1710299924,
+            "hd": 128
+        },
+        {
+            "lat": 40.393703,
+            "lng": 94.220558,
+            "alt": 33100,
+            "spd": 471,
+            "ts": 1710299864,
+            "hd": 128
+        },
+        {
+            "lat": 40.475681,
+            "lng": 94.086349,
+            "alt": 33075,
+            "spd": 470,
+            "ts": 1710299804,
+            "hd": 129
+        },
+        {
+            "lat": 40.556728,
+            "lng": 93.95314,
+            "alt": 33100,
+            "spd": 467,
+            "ts": 1710299744,
+            "hd": 128
+        },
+        {
+            "lat": 40.717758,
+            "lng": 93.686577,
+            "alt": 33100,
+            "spd": 464,
+            "ts": 1710299623,
+            "hd": 128
+        },
+        {
+            "lat": 40.793289,
+            "lng": 93.55011,
+            "alt": 33100,
+            "spd": 465,
+            "ts": 1710299564,
+            "hd": 124
+        },
+        {
+            "lat": 40.864929,
+            "lng": 93.408203,
+            "alt": 33100,
+            "spd": 465,
+            "ts": 1710299504,
+            "hd": 124
+        },
+        {
+            "lat": 41.006699,
+            "lng": 93.125053,
+            "alt": 33100,
+            "spd": 465,
+            "ts": 1710299384,
+            "hd": 123
+        },
+        {
+            "lat": 41.078339,
+            "lng": 92.981812,
+            "alt": 33100,
+            "spd": 467,
+            "ts": 1710299324,
+            "hd": 123
+        },
+        {
+            "lat": 41.219921,
+            "lng": 92.695007,
+            "alt": 33100,
+            "spd": 465,
+            "ts": 1710299204,
+            "hd": 123
+        },
+        {
+            "lat": 41.35849,
+            "lng": 92.412407,
+            "alt": 33100,
+            "spd": 462,
+            "ts": 1710299085,
+            "hd": 123
+        },
+        {
+            "lat": 41.428341,
+            "lng": 92.268547,
+            "alt": 33125,
+            "spd": 459,
+            "ts": 1710299025,
+            "hd": 123
+        },
+        {
+            "lat": 41.497284,
+            "lng": 92.12635,
+            "alt": 33100,
+            "spd": 456,
+            "ts": 1710298965,
+            "hd": 123
+        },
+        {
+            "lat": 41.632278,
+            "lng": 91.846077,
+            "alt": 33100,
+            "spd": 446,
+            "ts": 1710298845,
+            "hd": 124
+        },
+        {
+            "lat": 41.702545,
+            "lng": 91.711868,
+            "alt": 33100,
+            "spd": 442,
+            "ts": 1710298785,
+            "hd": 125
+        },
+        {
+            "lat": 42.634048,
+            "lng": 89.907928,
+            "alt": 35100,
+            "spd": 455,
+            "ts": 1710298003,
+            "hd": 125
+        },
+        {
+            "lat": 42.77615,
+            "lng": 89.63324,
+            "alt": 35100,
+            "spd": 449,
+            "ts": 1710297886,
+            "hd": 125
+        },
+        {
+            "lat": 42.912689,
+            "lng": 89.366524,
+            "alt": 33950,
+            "spd": 433,
+            "ts": 1710297768,
+            "hd": 124
+        },
+        {
+            "lat": 43.051941,
+            "lng": 89.086411,
+            "alt": 31875,
+            "spd": 427,
+            "ts": 1710297643,
+            "hd": 121
+        },
+        {
+            "lat": 43.230469,
+            "lng": 88.678261,
+            "alt": 28775,
+            "spd": 402,
+            "ts": 1710297463,
+            "hd": 120
+        },
+        {
+            "lat": 43.33873,
+            "lng": 88.428123,
+            "alt": 25950,
+            "spd": 395,
+            "ts": 1710297348,
+            "hd": 120
+        },
+        {
+            "lat": 43.393799,
+            "lng": 88.299927,
+            "alt": 24500,
+            "spd": 386,
+            "ts": 1710297288,
+            "hd": 120
+        },
+        {
+            "lat": 43.60976,
+            "lng": 87.833267,
+            "alt": 17575,
+            "spd": 340,
+            "ts": 1710297048,
+            "hd": 128
+        },
+        {
+            "lat": 43.672329,
+            "lng": 87.725052,
+            "alt": 15175,
+            "spd": 332,
+            "ts": 1710296983,
+            "hd": 128
+        },
+        {
+            "lat": 43.83186,
+            "lng": 87.345428,
+            "alt": 7325,
+            "spd": 194,
+            "ts": 1710296743,
+            "hd": 137
+        },
+        {
+            "lat": 43.873631,
+            "lng": 87.34156,
+            "alt": 5975,
+            "spd": 197,
+            "ts": 1710296688,
+            "hd": 222
+        }
+    ],
+    "firstTimestamp": 1710296688,
+    "s": "xdfuUt50ljRqFOfOavzThJL9t5diHLBjvKhu7tKcwAxnjtldEgC5xiusMyC45hpV"
+}

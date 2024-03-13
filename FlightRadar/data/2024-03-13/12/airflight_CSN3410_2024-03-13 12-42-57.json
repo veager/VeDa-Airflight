@@ -1,0 +1,884 @@
+{
+    "identification": {
+        "id": "3457ac98",
+        "row": 5480843685,
+        "number": {
+            "default": "CZ3410",
+            "alternative": null
+        },
+        "callsign": "CSN3410"
+    },
+    "status": {
+        "live": true,
+        "text": "Estimated- 14:04",
+        "icon": "green",
+        "estimated": null,
+        "ambiguous": false,
+        "generic": {
+            "status": {
+                "text": "estimated",
+                "color": "green",
+                "type": "arrival"
+            },
+            "eventTime": {
+                "utc": 1710309888,
+                "local": 1710338688
+            }
+        }
+    },
+    "level": "limited",
+    "promote": false,
+    "aircraft": {
+        "model": {
+            "code": "A320",
+            "text": "Airbus A320-232"
+        },
+        "countryId": 46,
+        "registration": "B-6762",
+        "age": null,
+        "msn": null,
+        "images": {
+            "thumbnails": [
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/434999_1703692892_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11189148",
+                    "copyright": "Ces_Fan",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/6/659198_1702999581_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11183038",
+                    "copyright": "NKG_Zhao",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/1194664_1704859402_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11204482",
+                    "copyright": "LYX20014",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/549705_1699617914_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11150449",
+                    "copyright": "NP0921",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/6/1730276_1695301911_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11096361",
+                    "copyright": "Nicolas Shu",
+                    "source": "Jetphotos"
+                }
+            ],
+            "medium": [
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/434999_1703692892.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11189148",
+                    "copyright": "Ces_Fan",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/6/659198_1702999581.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11183038",
+                    "copyright": "NKG_Zhao",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/1194664_1704859402.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11204482",
+                    "copyright": "LYX20014",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/549705_1699617914.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11150449",
+                    "copyright": "NP0921",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/6/1730276_1695301911.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11096361",
+                    "copyright": "Nicolas Shu",
+                    "source": "Jetphotos"
+                }
+            ],
+            "large": [
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/434999_1703692892.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11189148",
+                    "copyright": "Ces_Fan",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/6/659198_1702999581.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11183038",
+                    "copyright": "NKG_Zhao",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/1194664_1704859402.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11204482",
+                    "copyright": "LYX20014",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/549705_1699617914.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11150449",
+                    "copyright": "NP0921",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/6/1730276_1695301911.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11096361",
+                    "copyright": "Nicolas Shu",
+                    "source": "Jetphotos"
+                }
+            ]
+        },
+        "hex": "780746"
+    },
+    "airline": {
+        "name": "China Southern Airlines",
+        "short": "China Southern Airlines",
+        "code": {
+            "iata": "CZ",
+            "icao": "CSN"
+        },
+        "url": "china-southern-airlines-csn"
+    },
+    "owner": null,
+    "airspace": null,
+    "airport": {
+        "origin": {
+            "name": "Kunming Changshui International Airport",
+            "code": {
+                "iata": "KMG",
+                "icao": "ZPPP"
+            },
+            "position": {
+                "latitude": 25.101944,
+                "longitude": 102.929169,
+                "altitude": 6900,
+                "country": {
+                    "id": null,
+                    "name": "China",
+                    "code": "CHN"
+                },
+                "region": {
+                    "city": "Kunming"
+                }
+            },
+            "timezone": {
+                "name": "Asia/Chongqing",
+                "offset": 28800,
+                "offsetHours": "8:00",
+                "abbr": "CST",
+                "abbrName": "China Standard Time",
+                "isDst": false
+            },
+            "visible": true,
+            "website": null,
+            "info": {
+                "terminal": null,
+                "baggage": null,
+                "gate": "56"
+            }
+        },
+        "destination": {
+            "name": "Guangzhou Baiyun International Airport",
+            "code": {
+                "iata": "CAN",
+                "icao": "ZGGG"
+            },
+            "position": {
+                "latitude": 23.392429,
+                "longitude": 113.298698,
+                "altitude": 50,
+                "country": {
+                    "id": 46,
+                    "name": "China",
+                    "code": "CN",
+                    "codeLong": "CHN"
+                },
+                "region": {
+                    "city": "Guangzhou"
+                }
+            },
+            "timezone": {
+                "name": "Asia/Shanghai",
+                "offset": 28800,
+                "offsetHours": "8:00",
+                "abbr": "CST",
+                "abbrName": "China Standard Time",
+                "isDst": false
+            },
+            "visible": true,
+            "website": "http://www.gbiac.net/en/byhome",
+            "info": {
+                "terminal": "2",
+                "baggage": "38",
+                "gate": null
+            }
+        },
+        "real": null
+    },
+    "flightHistory": {
+        "aircraft": [
+            {
+                "identification": {
+                    "id": "34572696",
+                    "number": {
+                        "default": "CZ3409"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Guangzhou Baiyun International Airport",
+                        "code": {
+                            "iata": "CAN",
+                            "icao": "ZGGG"
+                        },
+                        "position": {
+                            "latitude": 23.392429,
+                            "longitude": 113.298698,
+                            "altitude": 50,
+                            "country": {
+                                "id": 46,
+                                "name": "China",
+                                "code": "CN",
+                                "codeLong": "CHN"
+                            },
+                            "region": {
+                                "city": "Guangzhou"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": "http://www.gbiac.net/en/byhome"
+                    },
+                    "destination": {
+                        "name": "Kunming Changshui International Airport",
+                        "code": {
+                            "iata": "KMG",
+                            "icao": "ZPPP"
+                        },
+                        "position": {
+                            "latitude": 25.101944,
+                            "longitude": 102.929169,
+                            "altitude": 6900,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Kunming"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Chongqing",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710288618
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "34549bd1",
+                    "number": {
+                        "default": "CZ3822"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Nanjing Lukou International Airport",
+                        "code": {
+                            "iata": "NKG",
+                            "icao": "ZSNJ"
+                        },
+                        "position": {
+                            "latitude": 31.742041,
+                            "longitude": 118.862,
+                            "altitude": 49,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Nanjing"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Guangzhou Baiyun International Airport",
+                        "code": {
+                            "iata": "CAN",
+                            "icao": "ZGGG"
+                        },
+                        "position": {
+                            "latitude": 23.392429,
+                            "longitude": 113.298698,
+                            "altitude": 50,
+                            "country": {
+                                "id": 46,
+                                "name": "China",
+                                "code": "CN",
+                                "codeLong": "CHN"
+                            },
+                            "region": {
+                                "city": "Guangzhou"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": "http://www.gbiac.net/en/byhome"
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710233079
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "345445d7",
+                    "number": {
+                        "default": "CZ3821"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Guangzhou Baiyun International Airport",
+                        "code": {
+                            "iata": "CAN",
+                            "icao": "ZGGG"
+                        },
+                        "position": {
+                            "latitude": 23.392429,
+                            "longitude": 113.298698,
+                            "altitude": 50,
+                            "country": {
+                                "id": 46,
+                                "name": "China",
+                                "code": "CN",
+                                "codeLong": "CHN"
+                            },
+                            "region": {
+                                "city": "Guangzhou"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": "http://www.gbiac.net/en/byhome"
+                    },
+                    "destination": {
+                        "name": "Nanjing Lukou International Airport",
+                        "code": {
+                            "iata": "NKG",
+                            "icao": "ZSNJ"
+                        },
+                        "position": {
+                            "latitude": 31.742041,
+                            "longitude": 118.862,
+                            "altitude": 49,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Nanjing"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710221259
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "3453888c",
+                    "number": {
+                        "default": "CZ3384"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Nanyang Jiangying Airport",
+                        "code": {
+                            "iata": "NNY",
+                            "icao": "ZHNY"
+                        },
+                        "position": {
+                            "latitude": 32.98,
+                            "longitude": 112.610001,
+                            "altitude": 131,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Nanyang"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Guangzhou Baiyun International Airport",
+                        "code": {
+                            "iata": "CAN",
+                            "icao": "ZGGG"
+                        },
+                        "position": {
+                            "latitude": 23.392429,
+                            "longitude": 113.298698,
+                            "altitude": 50,
+                            "country": {
+                                "id": 46,
+                                "name": "China",
+                                "code": "CN",
+                                "codeLong": "CHN"
+                            },
+                            "region": {
+                                "city": "Guangzhou"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": "http://www.gbiac.net/en/byhome"
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710197700
+                    }
+                }
+            }
+        ]
+    },
+    "ems": null,
+    "availability": [
+        "AGE",
+        "MSN"
+    ],
+    "time": {
+        "scheduled": {
+            "departure": 1710301500,
+            "arrival": 1710309300
+        },
+        "real": {
+            "departure": 1710304240,
+            "arrival": null
+        },
+        "estimated": {
+            "departure": null,
+            "arrival": 1710309888
+        },
+        "other": {
+            "eta": 1710309888,
+            "updated": 1710304701
+        },
+        "historical": {
+            "flighttime": "5624",
+            "delay": "-128"
+        }
+    },
+    "trail": [
+        {
+            "lat": 24.477768,
+            "lng": 103.22998,
+            "alt": 27275,
+            "spd": 477,
+            "ts": 1710304949,
+            "hd": 102
+        },
+        {
+            "lat": 24.494438,
+            "lng": 103.149651,
+            "alt": 26675,
+            "spd": 469,
+            "ts": 1710304915,
+            "hd": 102
+        },
+        {
+            "lat": 24.511368,
+            "lng": 103.067986,
+            "alt": 25850,
+            "spd": 470,
+            "ts": 1710304880,
+            "hd": 102
+        },
+        {
+            "lat": 24.528534,
+            "lng": 102.984314,
+            "alt": 25000,
+            "spd": 468,
+            "ts": 1710304846,
+            "hd": 103
+        },
+        {
+            "lat": 24.529398,
+            "lng": 102.980034,
+            "alt": 24950,
+            "spd": 466,
+            "ts": 1710304842,
+            "hd": 102
+        },
+        {
+            "lat": 24.532516,
+            "lng": 102.965187,
+            "alt": 24800,
+            "spd": 467,
+            "ts": 1710304835,
+            "hd": 103
+        },
+        {
+            "lat": 24.536661,
+            "lng": 102.946404,
+            "alt": 24600,
+            "spd": 467,
+            "ts": 1710304828,
+            "hd": 106
+        },
+        {
+            "lat": 24.53833,
+            "lng": 102.940163,
+            "alt": 24525,
+            "spd": 467,
+            "ts": 1710304824,
+            "hd": 108
+        },
+        {
+            "lat": 24.542999,
+            "lng": 102.926384,
+            "alt": 24425,
+            "spd": 467,
+            "ts": 1710304819,
+            "hd": 113
+        },
+        {
+            "lat": 24.54788,
+            "lng": 102.915207,
+            "alt": 24325,
+            "spd": 463,
+            "ts": 1710304814,
+            "hd": 118
+        },
+        {
+            "lat": 24.575857,
+            "lng": 102.873337,
+            "alt": 23875,
+            "spd": 451,
+            "ts": 1710304791,
+            "hd": 132
+        },
+        {
+            "lat": 24.618759,
+            "lng": 102.822517,
+            "alt": 23250,
+            "spd": 446,
+            "ts": 1710304760,
+            "hd": 132
+        },
+        {
+            "lat": 24.668962,
+            "lng": 102.763,
+            "alt": 22550,
+            "spd": 441,
+            "ts": 1710304725,
+            "hd": 132
+        },
+        {
+            "lat": 24.715607,
+            "lng": 102.707397,
+            "alt": 21700,
+            "spd": 438,
+            "ts": 1710304691,
+            "hd": 132
+        },
+        {
+            "lat": 24.763323,
+            "lng": 102.650444,
+            "alt": 21225,
+            "spd": 418,
+            "ts": 1710304655,
+            "hd": 132
+        },
+        {
+            "lat": 24.769958,
+            "lng": 102.64257,
+            "alt": 21175,
+            "spd": 414,
+            "ts": 1710304651,
+            "hd": 132
+        },
+        {
+            "lat": 24.775589,
+            "lng": 102.635857,
+            "alt": 21125,
+            "spd": 414,
+            "ts": 1710304646,
+            "hd": 133
+        },
+        {
+            "lat": 24.783188,
+            "lng": 102.627007,
+            "alt": 20975,
+            "spd": 410,
+            "ts": 1710304640,
+            "hd": 135
+        },
+        {
+            "lat": 24.790649,
+            "lng": 102.618782,
+            "alt": 20800,
+            "spd": 407,
+            "ts": 1710304635,
+            "hd": 139
+        },
+        {
+            "lat": 24.801542,
+            "lng": 102.609352,
+            "alt": 20600,
+            "spd": 398,
+            "ts": 1710304627,
+            "hd": 147
+        },
+        {
+            "lat": 24.810425,
+            "lng": 102.603455,
+            "alt": 20475,
+            "spd": 387,
+            "ts": 1710304622,
+            "hd": 155
+        },
+        {
+            "lat": 24.818573,
+            "lng": 102.599281,
+            "alt": 20325,
+            "spd": 378,
+            "ts": 1710304617,
+            "hd": 161
+        },
+        {
+            "lat": 24.829613,
+            "lng": 102.594994,
+            "alt": 20150,
+            "spd": 361,
+            "ts": 1710304610,
+            "hd": 171
+        },
+        {
+            "lat": 24.838577,
+            "lng": 102.592674,
+            "alt": 20050,
+            "spd": 361,
+            "ts": 1710304605,
+            "hd": 171
+        },
+        {
+            "lat": 24.845673,
+            "lng": 102.591652,
+            "alt": 20000,
+            "spd": 349,
+            "ts": 1710304600,
+            "hd": 178
+        },
+        {
+            "lat": 24.859686,
+            "lng": 102.591888,
+            "alt": 19825,
+            "spd": 326,
+            "ts": 1710304592,
+            "hd": 190
+        },
+        {
+            "lat": 24.864349,
+            "lng": 102.592674,
+            "alt": 19775,
+            "spd": 318,
+            "ts": 1710304589,
+            "hd": 194
+        },
+        {
+            "lat": 24.872442,
+            "lng": 102.5951,
+            "alt": 19675,
+            "spd": 309,
+            "ts": 1710304583,
+            "hd": 200
+        },
+        {
+            "lat": 24.89595,
+            "lng": 102.614273,
+            "alt": 19250,
+            "spd": 254,
+            "ts": 1710304560,
+            "hd": 233
+        },
+        {
+            "lat": 24.921183,
+            "lng": 102.651634,
+            "alt": 17175,
+            "spd": 284,
+            "ts": 1710304526,
+            "hd": 233
+        },
+        {
+            "lat": 24.949997,
+            "lng": 102.694397,
+            "alt": 15250,
+            "spd": 298,
+            "ts": 1710304490,
+            "hd": 233
+        },
+        {
+            "lat": 24.978836,
+            "lng": 102.737221,
+            "alt": 13325,
+            "spd": 301,
+            "ts": 1710304455,
+            "hd": 233
+        },
+        {
+            "lat": 25.004929,
+            "lng": 102.776237,
+            "alt": 12050,
+            "spd": 289,
+            "ts": 1710304423,
+            "hd": 233
+        },
+        {
+            "lat": 25.018066,
+            "lng": 102.795715,
+            "alt": 11175,
+            "spd": 288,
+            "ts": 1710304407,
+            "hd": 233
+        },
+        {
+            "lat": 25.033035,
+            "lng": 102.818047,
+            "alt": 10225,
+            "spd": 285,
+            "ts": 1710304388,
+            "hd": 233
+        },
+        {
+            "lat": 25.045662,
+            "lng": 102.836594,
+            "alt": 9750,
+            "spd": 269,
+            "ts": 1710304372,
+            "hd": 233
+        },
+        {
+            "lat": 25.058716,
+            "lng": 102.85614,
+            "alt": 9275,
+            "spd": 246,
+            "ts": 1710304353,
+            "hd": 233
+        },
+        {
+            "lat": 25.068878,
+            "lng": 102.87104,
+            "alt": 8975,
+            "spd": 224,
+            "ts": 1710304338,
+            "hd": 233
+        },
+        {
+            "lat": 25.077438,
+            "lng": 102.883812,
+            "alt": 8775,
+            "spd": 206,
+            "ts": 1710304324,
+            "hd": 235
+        },
+        {
+            "lat": 25.085791,
+            "lng": 102.896706,
+            "alt": 8600,
+            "spd": 184,
+            "ts": 1710304308,
+            "hd": 233
+        }
+    ],
+    "firstTimestamp": 1710304308,
+    "s": "UgaqwgvA0M03brlw0Brv-mw23ldYPUvhVB6QybT3I5rgwnasWUeosDaw3LCo5XfT"
+}

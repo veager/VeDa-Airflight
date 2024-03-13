@@ -1,0 +1,679 @@
+{
+    "identification": {
+        "id": "3457a037",
+        "row": 5480613288,
+        "number": {
+            "default": "CZ6915",
+            "alternative": null
+        },
+        "callsign": "CSN6915"
+    },
+    "status": {
+        "live": true,
+        "text": "Estimated- 15:45",
+        "icon": "green",
+        "estimated": null,
+        "ambiguous": false,
+        "generic": {
+            "status": {
+                "text": "estimated",
+                "color": "green",
+                "type": "arrival"
+            },
+            "eventTime": {
+                "utc": 1710315904,
+                "local": 1710344704
+            }
+        }
+    },
+    "level": "limited",
+    "promote": false,
+    "aircraft": {
+        "model": {
+            "code": "B737",
+            "text": "Boeing 737-71B"
+        },
+        "countryId": 46,
+        "registration": "B-5247",
+        "age": null,
+        "msn": null,
+        "images": {
+            "thumbnails": [
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/588923_1705937720_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11218606",
+                    "copyright": "shook ",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/6/884621_1699125700_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11144341",
+                    "copyright": "Yang0828",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/528579_1697455683_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11123930",
+                    "copyright": "nijingbo",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/6/1360594_1692191747_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11062819",
+                    "copyright": "Captain Zhang",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/6/1072064_1692629993_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11067884",
+                    "copyright": "Lazy Clutch",
+                    "source": "Jetphotos"
+                }
+            ],
+            "medium": [
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/588923_1705937720.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11218606",
+                    "copyright": "shook ",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/6/884621_1699125700.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11144341",
+                    "copyright": "Yang0828",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/528579_1697455683.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11123930",
+                    "copyright": "nijingbo",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/6/1360594_1692191747.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11062819",
+                    "copyright": "Captain Zhang",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/6/1072064_1692629993.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11067884",
+                    "copyright": "Lazy Clutch",
+                    "source": "Jetphotos"
+                }
+            ],
+            "large": [
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/588923_1705937720.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11218606",
+                    "copyright": "shook ",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/6/884621_1699125700.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11144341",
+                    "copyright": "Yang0828",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/528579_1697455683.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11123930",
+                    "copyright": "nijingbo",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/6/1360594_1692191747.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11062819",
+                    "copyright": "Captain Zhang",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/6/1072064_1692629993.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11067884",
+                    "copyright": "Lazy Clutch",
+                    "source": "Jetphotos"
+                }
+            ]
+        },
+        "hex": "78051c"
+    },
+    "airline": {
+        "name": "China Southern Airlines",
+        "short": "China Southern Airlines",
+        "code": {
+            "iata": "CZ",
+            "icao": "CSN"
+        },
+        "url": "china-southern-airlines-csn"
+    },
+    "owner": null,
+    "airspace": null,
+    "airport": {
+        "origin": {
+            "name": "Urumqi Diwopu International Airport",
+            "code": {
+                "iata": "URC",
+                "icao": "ZWWW"
+            },
+            "position": {
+                "latitude": 43.907101,
+                "longitude": 87.474243,
+                "altitude": 2125,
+                "country": {
+                    "id": null,
+                    "name": "China",
+                    "code": "CHN"
+                },
+                "region": {
+                    "city": "Urumqi"
+                }
+            },
+            "timezone": {
+                "name": "Asia/Shanghai",
+                "offset": 28800,
+                "offsetHours": "8:00",
+                "abbr": "CST",
+                "abbrName": "China Standard Time",
+                "isDst": false
+            },
+            "visible": true,
+            "website": null,
+            "info": {
+                "terminal": "3",
+                "baggage": null,
+                "gate": "28"
+            }
+        },
+        "destination": {
+            "name": "Hefei Xinqiao International Airport",
+            "code": {
+                "iata": "HFE",
+                "icao": "ZSOF"
+            },
+            "position": {
+                "latitude": 31.986345,
+                "longitude": 116.970474,
+                "altitude": 108,
+                "country": {
+                    "id": null,
+                    "name": "China",
+                    "code": "CHN"
+                },
+                "region": {
+                    "city": "Hefei"
+                }
+            },
+            "timezone": {
+                "name": "Asia/Shanghai",
+                "offset": 28800,
+                "offsetHours": "8:00",
+                "abbr": "CST",
+                "abbrName": "China Standard Time",
+                "isDst": false
+            },
+            "visible": true,
+            "website": null,
+            "info": {
+                "terminal": null,
+                "baggage": null,
+                "gate": null
+            }
+        },
+        "real": null
+    },
+    "flightHistory": {
+        "aircraft": [
+            {
+                "identification": {
+                    "id": "34575a1a",
+                    "number": {
+                        "default": "CZ6684"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Karamay Airport",
+                        "code": {
+                            "iata": "KRY",
+                            "icao": "ZWKM"
+                        },
+                        "position": {
+                            "latitude": 45.466389,
+                            "longitude": 84.952499,
+                            "altitude": 1096,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Karamay"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Urumqi Diwopu International Airport",
+                        "code": {
+                            "iata": "URC",
+                            "icao": "ZWWW"
+                        },
+                        "position": {
+                            "latitude": 43.907101,
+                            "longitude": 87.474243,
+                            "altitude": 2125,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Urumqi"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710292800
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "34554051",
+                    "number": {
+                        "default": "CZ6683"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Urumqi Diwopu International Airport",
+                        "code": {
+                            "iata": "URC",
+                            "icao": "ZWWW"
+                        },
+                        "position": {
+                            "latitude": 43.907101,
+                            "longitude": 87.474243,
+                            "altitude": 2125,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Urumqi"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Karamay Airport",
+                        "code": {
+                            "iata": "KRY",
+                            "icao": "ZWKM"
+                        },
+                        "position": {
+                            "latitude": 45.466389,
+                            "longitude": 84.952499,
+                            "altitude": 1096,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Karamay"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710249540
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "3454a897",
+                    "number": {
+                        "default": "CZ6816"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Hotan Airport",
+                        "code": {
+                            "iata": "HTN",
+                            "icao": "ZWTN"
+                        },
+                        "position": {
+                            "latitude": 37.038521,
+                            "longitude": 79.864929,
+                            "altitude": 4672,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Hotan"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Urumqi Diwopu International Airport",
+                        "code": {
+                            "iata": "URC",
+                            "icao": "ZWWW"
+                        },
+                        "position": {
+                            "latitude": 43.907101,
+                            "longitude": 87.474243,
+                            "altitude": 2125,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Urumqi"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710235020
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "3454597d",
+                    "number": {
+                        "default": "CZ6894"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Urumqi Diwopu International Airport",
+                        "code": {
+                            "iata": "URC",
+                            "icao": "ZWWW"
+                        },
+                        "position": {
+                            "latitude": 43.907101,
+                            "longitude": 87.474243,
+                            "altitude": 2125,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Urumqi"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Hotan Airport",
+                        "code": {
+                            "iata": "HTN",
+                            "icao": "ZWTN"
+                        },
+                        "position": {
+                            "latitude": 37.038521,
+                            "longitude": 79.864929,
+                            "altitude": 4672,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Hotan"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710223200
+                    }
+                }
+            }
+        ]
+    },
+    "ems": null,
+    "availability": [
+        "AGE",
+        "MSN"
+    ],
+    "time": {
+        "scheduled": {
+            "departure": 1710302100,
+            "arrival": 1710318000
+        },
+        "real": {
+            "departure": 1710302400,
+            "arrival": null
+        },
+        "estimated": {
+            "departure": null,
+            "arrival": 1710315904
+        },
+        "other": {
+            "eta": 1710315904,
+            "updated": 1710304443
+        },
+        "historical": {
+            "flighttime": "13518",
+            "delay": "-620"
+        }
+    },
+    "trail": [
+        {
+            "lat": 41.175453,
+            "lng": 92.785538,
+            "alt": 35100,
+            "spd": 448,
+            "ts": 1710304904,
+            "hd": 123
+        },
+        {
+            "lat": 41.24387,
+            "lng": 92.646912,
+            "alt": 35100,
+            "spd": 446,
+            "ts": 1710304844,
+            "hd": 122
+        },
+        {
+            "lat": 41.377621,
+            "lng": 92.37323,
+            "alt": 35100,
+            "spd": 440,
+            "ts": 1710304724,
+            "hd": 122
+        },
+        {
+            "lat": 42.47007,
+            "lng": 90.22139,
+            "alt": 35100,
+            "spd": 443,
+            "ts": 1710303759,
+            "hd": 125
+        },
+        {
+            "lat": 42.53476,
+            "lng": 90.097748,
+            "alt": 35100,
+            "spd": 444,
+            "ts": 1710303704,
+            "hd": 125
+        },
+        {
+            "lat": 42.676991,
+            "lng": 89.824532,
+            "alt": 35100,
+            "spd": 446,
+            "ts": 1710303584,
+            "hd": 124
+        },
+        {
+            "lat": 42.746479,
+            "lng": 89.689262,
+            "alt": 35100,
+            "spd": 449,
+            "ts": 1710303525,
+            "hd": 124
+        },
+        {
+            "lat": 42.819908,
+            "lng": 89.546356,
+            "alt": 35100,
+            "spd": 451,
+            "ts": 1710303464,
+            "hd": 125
+        },
+        {
+            "lat": 42.89035,
+            "lng": 89.409798,
+            "alt": 35100,
+            "spd": 451,
+            "ts": 1710303405,
+            "hd": 124
+        },
+        {
+            "lat": 42.961399,
+            "lng": 89.269981,
+            "alt": 35100,
+            "spd": 452,
+            "ts": 1710303345,
+            "hd": 125
+        },
+        {
+            "lat": 43.41573,
+            "lng": 88.24984,
+            "alt": 26900,
+            "spd": 435,
+            "ts": 1710302925,
+            "hd": 120
+        },
+        {
+            "lat": 43.598919,
+            "lng": 87.853127,
+            "alt": 19950,
+            "spd": 398,
+            "ts": 1710302745,
+            "hd": 128
+        },
+        {
+            "lat": 43.66539,
+            "lng": 87.737801,
+            "alt": 17925,
+            "spd": 366,
+            "ts": 1710302685,
+            "hd": 128
+        },
+        {
+            "lat": 43.723068,
+            "lng": 87.636917,
+            "alt": 16300,
+            "spd": 313,
+            "ts": 1710302625,
+            "hd": 128
+        },
+        {
+            "lat": 43.799419,
+            "lng": 87.443848,
+            "alt": 10425,
+            "spd": 274,
+            "ts": 1710302505,
+            "hd": 108
+        }
+    ],
+    "firstTimestamp": 1710302505,
+    "s": "leqD5PpcQZZ5TSPqJJX399BXZqfL8r3a1gbx8eo5dcZwvqcAiUs7tc9fzuo94lRd"
+}

@@ -1,0 +1,647 @@
+{
+    "identification": {
+        "id": "3457ab4b",
+        "row": 5480555543,
+        "number": {
+            "default": "3U8906",
+            "alternative": null
+        },
+        "callsign": "CSC8906"
+    },
+    "status": {
+        "live": true,
+        "text": "Estimated- 15:34",
+        "icon": "green",
+        "estimated": null,
+        "ambiguous": false,
+        "generic": {
+            "status": {
+                "text": "estimated",
+                "color": "green",
+                "type": "arrival"
+            },
+            "eventTime": {
+                "utc": 1710315264,
+                "local": 1710344064
+            }
+        }
+    },
+    "level": "limited",
+    "promote": false,
+    "aircraft": {
+        "model": {
+            "code": "A321",
+            "text": "Airbus A321-231"
+        },
+        "countryId": 46,
+        "registration": "B-6387",
+        "age": null,
+        "msn": null,
+        "images": {
+            "thumbnails": [
+                {
+                    "src": "https://cdn.jetphotos.com/200/6/561352_1706145304_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11221226",
+                    "copyright": "LaCurtain",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/6/872904_1702009383_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11174878",
+                    "copyright": "ChengyeLi",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/992061_1689144747_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11026218",
+                    "copyright": "LYX20014",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/81292_1672326213_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10830546",
+                    "copyright": "1219qiuda",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/72166_1665127587_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10742129",
+                    "copyright": "loveskyFWL",
+                    "source": "Jetphotos"
+                }
+            ],
+            "medium": [
+                {
+                    "src": "https://cdn.jetphotos.com/400/6/561352_1706145304.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11221226",
+                    "copyright": "LaCurtain",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/6/872904_1702009383.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11174878",
+                    "copyright": "ChengyeLi",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/992061_1689144747.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11026218",
+                    "copyright": "LYX20014",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/81292_1672326213.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10830546",
+                    "copyright": "1219qiuda",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/72166_1665127587.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10742129",
+                    "copyright": "loveskyFWL",
+                    "source": "Jetphotos"
+                }
+            ],
+            "large": [
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/6/561352_1706145304.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11221226",
+                    "copyright": "LaCurtain",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/6/872904_1702009383.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11174878",
+                    "copyright": "ChengyeLi",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/992061_1689144747.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11026218",
+                    "copyright": "LYX20014",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/81292_1672326213.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10830546",
+                    "copyright": "1219qiuda",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/72166_1665127587.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/10742129",
+                    "copyright": "loveskyFWL",
+                    "source": "Jetphotos"
+                }
+            ]
+        },
+        "hex": "7804d9"
+    },
+    "airline": {
+        "name": "Sichuan Airlines",
+        "short": "Sichuan Airlines",
+        "code": {
+            "iata": "3U",
+            "icao": "CSC"
+        },
+        "url": "sichuan-airlines-csc"
+    },
+    "owner": null,
+    "airspace": null,
+    "airport": {
+        "origin": {
+            "name": "Fuzhou Changle International Airport",
+            "code": {
+                "iata": "FOC",
+                "icao": "ZSFZ"
+            },
+            "position": {
+                "latitude": 25.934599,
+                "longitude": 119.663368,
+                "altitude": 29,
+                "country": {
+                    "id": null,
+                    "name": "China",
+                    "code": "CHN"
+                },
+                "region": {
+                    "city": "Fuzhou"
+                }
+            },
+            "timezone": {
+                "name": "Asia/Shanghai",
+                "offset": 28800,
+                "offsetHours": "8:00",
+                "abbr": "CST",
+                "abbrName": "China Standard Time",
+                "isDst": false
+            },
+            "visible": true,
+            "website": null,
+            "info": {
+                "terminal": null,
+                "baggage": null,
+                "gate": "D"
+            }
+        },
+        "destination": {
+            "name": "Chengdu Shuangliu International Airport",
+            "code": {
+                "iata": "CTU",
+                "icao": "ZUUU"
+            },
+            "position": {
+                "latitude": 30.57852,
+                "longitude": 103.946999,
+                "altitude": 1625,
+                "country": {
+                    "id": null,
+                    "name": "China",
+                    "code": "CHN"
+                },
+                "region": {
+                    "city": "Chengdu"
+                }
+            },
+            "timezone": {
+                "name": "Asia/Chongqing",
+                "offset": 28800,
+                "offsetHours": "8:00",
+                "abbr": "CST",
+                "abbrName": "China Standard Time",
+                "isDst": false
+            },
+            "visible": true,
+            "website": null,
+            "info": {
+                "terminal": "2",
+                "baggage": "12",
+                "gate": null
+            }
+        },
+        "real": null
+    },
+    "flightHistory": {
+        "aircraft": [
+            {
+                "identification": {
+                    "id": "34570c69",
+                    "number": {
+                        "default": "3U8905"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Chengdu Shuangliu International Airport",
+                        "code": {
+                            "iata": "CTU",
+                            "icao": "ZUUU"
+                        },
+                        "position": {
+                            "latitude": 30.57852,
+                            "longitude": 103.946999,
+                            "altitude": 1625,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Chengdu"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Chongqing",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Fuzhou Changle International Airport",
+                        "code": {
+                            "iata": "FOC",
+                            "icao": "ZSFZ"
+                        },
+                        "position": {
+                            "latitude": 25.934599,
+                            "longitude": 119.663368,
+                            "altitude": 29,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Fuzhou"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710290260
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "34556bf4",
+                    "number": {
+                        "default": "3U8996"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Nanjing Lukou International Airport",
+                        "code": {
+                            "iata": "NKG",
+                            "icao": "ZSNJ"
+                        },
+                        "position": {
+                            "latitude": 31.742041,
+                            "longitude": 118.862,
+                            "altitude": 49,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Nanjing"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Chengdu Shuangliu International Airport",
+                        "code": {
+                            "iata": "CTU",
+                            "icao": "ZUUU"
+                        },
+                        "position": {
+                            "latitude": 30.57852,
+                            "longitude": 103.946999,
+                            "altitude": 1625,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Chengdu"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Chongqing",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710252967
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "3454cd80",
+                    "number": {
+                        "default": "3U8995"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Chengdu Shuangliu International Airport",
+                        "code": {
+                            "iata": "CTU",
+                            "icao": "ZUUU"
+                        },
+                        "position": {
+                            "latitude": 30.57852,
+                            "longitude": 103.946999,
+                            "altitude": 1625,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Chengdu"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Chongqing",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Nanjing Lukou International Airport",
+                        "code": {
+                            "iata": "NKG",
+                            "icao": "ZSNJ"
+                        },
+                        "position": {
+                            "latitude": 31.742041,
+                            "longitude": 118.862,
+                            "altitude": 49,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Nanjing"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710240583
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "34544b4b",
+                    "number": {
+                        "default": "3U8906"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Fuzhou Changle International Airport",
+                        "code": {
+                            "iata": "FOC",
+                            "icao": "ZSFZ"
+                        },
+                        "position": {
+                            "latitude": 25.934599,
+                            "longitude": 119.663368,
+                            "altitude": 29,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Fuzhou"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Chengdu Shuangliu International Airport",
+                        "code": {
+                            "iata": "CTU",
+                            "icao": "ZUUU"
+                        },
+                        "position": {
+                            "latitude": 30.57852,
+                            "longitude": 103.946999,
+                            "altitude": 1625,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Chengdu"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Chongqing",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710221198
+                    }
+                }
+            }
+        ]
+    },
+    "ems": null,
+    "availability": [
+        "AGE",
+        "MSN"
+    ],
+    "time": {
+        "scheduled": {
+            "departure": 1710303300,
+            "arrival": 1710314700
+        },
+        "real": {
+            "departure": 1710304736,
+            "arrival": null
+        },
+        "estimated": {
+            "departure": null,
+            "arrival": 1710315264
+        },
+        "other": {
+            "eta": 1710315264,
+            "updated": 1710304932
+        },
+        "historical": {
+            "flighttime": "10861",
+            "delay": "1014"
+        }
+    },
+    "trail": [
+        {
+            "lat": 26.173279,
+            "lng": 119.628159,
+            "alt": 10500,
+            "spd": 282,
+            "ts": 1710305023,
+            "hd": 303
+        },
+        {
+            "lat": 26.13203,
+            "lng": 119.697861,
+            "alt": 8000,
+            "spd": 271,
+            "ts": 1710304964,
+            "hd": 302
+        },
+        {
+            "lat": 26.118738,
+            "lng": 119.721085,
+            "alt": 6975,
+            "spd": 274,
+            "ts": 1710304944,
+            "hd": 304
+        },
+        {
+            "lat": 26.109375,
+            "lng": 119.733826,
+            "alt": 6450,
+            "spd": 273,
+            "ts": 1710304933,
+            "hd": 322
+        },
+        {
+            "lat": 26.104727,
+            "lng": 119.737511,
+            "alt": 6275,
+            "spd": 264,
+            "ts": 1710304928,
+            "hd": 347
+        },
+        {
+            "lat": 26.086533,
+            "lng": 119.742844,
+            "alt": 5675,
+            "spd": 259,
+            "ts": 1710304912,
+            "hd": 14
+        },
+        {
+            "lat": 26.04808,
+            "lng": 119.727242,
+            "alt": 3850,
+            "spd": 262,
+            "ts": 1710304878,
+            "hd": 27
+        },
+        {
+            "lat": 26.01251,
+            "lng": 119.707191,
+            "alt": 2750,
+            "spd": 232,
+            "ts": 1710304844,
+            "hd": 27
+        },
+        {
+            "lat": 25.919773,
+            "lng": 119.656837,
+            "alt": 0,
+            "spd": 7,
+            "ts": 1710304306,
+            "hd": 27
+        },
+        {
+            "lat": 25.923466,
+            "lng": 119.659225,
+            "alt": 0,
+            "spd": 18,
+            "ts": 1710304241,
+            "hd": 27
+        },
+        {
+            "lat": 25.928581,
+            "lng": 119.662117,
+            "alt": 0,
+            "spd": 18,
+            "ts": 1710304183,
+            "hd": 27
+        }
+    ],
+    "firstTimestamp": 1710304183,
+    "s": "c2y06aA_Q2Sc-7whiby_ywcqlBzX7evtEdL0amVpWDXKHWxu8MnGJ2V_r9IOJjdv"
+}

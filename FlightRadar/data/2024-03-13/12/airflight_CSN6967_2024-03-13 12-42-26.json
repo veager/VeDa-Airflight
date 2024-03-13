@@ -1,0 +1,737 @@
+{
+    "identification": {
+        "id": "34579f0e",
+        "row": 5480844180,
+        "number": {
+            "default": "CZ6967",
+            "alternative": null
+        },
+        "callsign": "CSN6967"
+    },
+    "status": {
+        "live": true,
+        "text": "Estimated- 15:42",
+        "icon": "green",
+        "estimated": null,
+        "ambiguous": false,
+        "generic": {
+            "status": {
+                "text": "estimated",
+                "color": "green",
+                "type": "arrival"
+            },
+            "eventTime": {
+                "utc": 1710315776,
+                "local": 1710344576
+            }
+        }
+    },
+    "level": "limited",
+    "promote": false,
+    "aircraft": {
+        "model": {
+            "code": "B38M",
+            "text": "Boeing 737 MAX 8"
+        },
+        "countryId": 46,
+        "registration": "B-1165",
+        "age": null,
+        "msn": null,
+        "images": {
+            "thumbnails": [
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/1010066_1703778639_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11190174",
+                    "copyright": "AMGEnthusiast63",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/910232_1703789066_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11190312",
+                    "copyright": "TommyNGB",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/1039971_1701255431_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11166970",
+                    "copyright": "LiXin",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/6/2788846_1708684996_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11258604",
+                    "copyright": "Jiamin",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/200/5/1152876_1691075960_tb.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11049584",
+                    "copyright": "XPHNGB",
+                    "source": "Jetphotos"
+                }
+            ],
+            "medium": [
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/1010066_1703778639.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11190174",
+                    "copyright": "AMGEnthusiast63",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/910232_1703789066.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11190312",
+                    "copyright": "TommyNGB",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/1039971_1701255431.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11166970",
+                    "copyright": "LiXin",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/6/2788846_1708684996.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11258604",
+                    "copyright": "Jiamin",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/400/5/1152876_1691075960.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11049584",
+                    "copyright": "XPHNGB",
+                    "source": "Jetphotos"
+                }
+            ],
+            "large": [
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/1010066_1703778639.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11190174",
+                    "copyright": "AMGEnthusiast63",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/910232_1703789066.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11190312",
+                    "copyright": "TommyNGB",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/1039971_1701255431.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11166970",
+                    "copyright": "LiXin",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/6/2788846_1708684996.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11258604",
+                    "copyright": "Jiamin",
+                    "source": "Jetphotos"
+                },
+                {
+                    "src": "https://cdn.jetphotos.com/640cb/5/1152876_1691075960.jpg?v=0",
+                    "link": "https://www.jetphotos.com/photo/11049584",
+                    "copyright": "XPHNGB",
+                    "source": "Jetphotos"
+                }
+            ]
+        },
+        "hex": "78149a"
+    },
+    "airline": {
+        "name": "China Southern Airlines",
+        "short": "China Southern Airlines",
+        "code": {
+            "iata": "CZ",
+            "icao": "CSN"
+        },
+        "url": "china-southern-airlines-csn"
+    },
+    "owner": null,
+    "airspace": null,
+    "airport": {
+        "origin": {
+            "name": "Urumqi Diwopu International Airport",
+            "code": {
+                "iata": "URC",
+                "icao": "ZWWW"
+            },
+            "position": {
+                "latitude": 43.907101,
+                "longitude": 87.474243,
+                "altitude": 2125,
+                "country": {
+                    "id": null,
+                    "name": "China",
+                    "code": "CHN"
+                },
+                "region": {
+                    "city": "Urumqi"
+                }
+            },
+            "timezone": {
+                "name": "Asia/Shanghai",
+                "offset": 28800,
+                "offsetHours": "8:00",
+                "abbr": "CST",
+                "abbrName": "China Standard Time",
+                "isDst": false
+            },
+            "visible": true,
+            "website": null,
+            "info": {
+                "terminal": "3",
+                "baggage": null,
+                "gate": "44"
+            }
+        },
+        "destination": {
+            "name": "Jinan Yaoqiang International Airport",
+            "code": {
+                "iata": "TNA",
+                "icao": "ZSJN"
+            },
+            "position": {
+                "latitude": 36.857208,
+                "longitude": 117.215897,
+                "altitude": 76,
+                "country": {
+                    "id": null,
+                    "name": "China",
+                    "code": "CHN"
+                },
+                "region": {
+                    "city": "Jinan"
+                }
+            },
+            "timezone": {
+                "name": "Asia/Shanghai",
+                "offset": 28800,
+                "offsetHours": "8:00",
+                "abbr": "CST",
+                "abbrName": "China Standard Time",
+                "isDst": false
+            },
+            "visible": true,
+            "website": null,
+            "info": {
+                "terminal": null,
+                "baggage": "3",
+                "gate": null
+            }
+        },
+        "real": null
+    },
+    "flightHistory": {
+        "aircraft": [
+            {
+                "identification": {
+                    "id": "34573067",
+                    "number": {
+                        "default": "CZ6810"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Kashgar Airport",
+                        "code": {
+                            "iata": "KHG",
+                            "icao": "ZWSH"
+                        },
+                        "position": {
+                            "latitude": 39.542919,
+                            "longitude": 76.019951,
+                            "altitude": 4529,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Kashgar"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Urumqi Diwopu International Airport",
+                        "code": {
+                            "iata": "URC",
+                            "icao": "ZWWW"
+                        },
+                        "position": {
+                            "latitude": 43.907101,
+                            "longitude": 87.474243,
+                            "altitude": 2125,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Urumqi"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710287280
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "34549154",
+                    "number": {
+                        "default": "CZ6802"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Guangzhou Baiyun International Airport",
+                        "code": {
+                            "iata": "CAN",
+                            "icao": "ZGGG"
+                        },
+                        "position": {
+                            "latitude": 23.392429,
+                            "longitude": 113.298698,
+                            "altitude": 50,
+                            "country": {
+                                "id": 46,
+                                "name": "China",
+                                "code": "CN",
+                                "codeLong": "CHN"
+                            },
+                            "region": {
+                                "city": "Guangzhou"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": "http://www.gbiac.net/en/byhome"
+                    },
+                    "destination": {
+                        "name": "Kashgar Airport",
+                        "code": {
+                            "iata": "KHG",
+                            "icao": "ZWSH"
+                        },
+                        "position": {
+                            "latitude": 39.542919,
+                            "longitude": 76.019951,
+                            "altitude": 4529,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Kashgar"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710231616
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "3453ca81",
+                    "number": {
+                        "default": "CZ6801"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Kashgar Airport",
+                        "code": {
+                            "iata": "KHG",
+                            "icao": "ZWSH"
+                        },
+                        "position": {
+                            "latitude": 39.542919,
+                            "longitude": 76.019951,
+                            "altitude": 4529,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Kashgar"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Guangzhou Baiyun International Airport",
+                        "code": {
+                            "iata": "CAN",
+                            "icao": "ZGGG"
+                        },
+                        "position": {
+                            "latitude": 23.392429,
+                            "longitude": 113.298698,
+                            "altitude": 50,
+                            "country": {
+                                "id": 46,
+                                "name": "China",
+                                "code": "CN",
+                                "codeLong": "CHN"
+                            },
+                            "region": {
+                                "city": "Guangzhou"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": "http://www.gbiac.net/en/byhome"
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710202440
+                    }
+                }
+            },
+            {
+                "identification": {
+                    "id": "34520c29",
+                    "number": {
+                        "default": "CZ6809"
+                    }
+                },
+                "airport": {
+                    "origin": {
+                        "name": "Urumqi Diwopu International Airport",
+                        "code": {
+                            "iata": "URC",
+                            "icao": "ZWWW"
+                        },
+                        "position": {
+                            "latitude": 43.907101,
+                            "longitude": 87.474243,
+                            "altitude": 2125,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Urumqi"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    },
+                    "destination": {
+                        "name": "Kashgar Airport",
+                        "code": {
+                            "iata": "KHG",
+                            "icao": "ZWSH"
+                        },
+                        "position": {
+                            "latitude": 39.542919,
+                            "longitude": 76.019951,
+                            "altitude": 4529,
+                            "country": {
+                                "id": null,
+                                "name": "China",
+                                "code": "CHN"
+                            },
+                            "region": {
+                                "city": "Kashgar"
+                            }
+                        },
+                        "timezone": {
+                            "name": "Asia/Shanghai",
+                            "offset": 28800,
+                            "offsetHours": "8:00",
+                            "abbr": "CST",
+                            "abbrName": "China Standard Time",
+                            "isDst": false
+                        },
+                        "visible": true,
+                        "website": null
+                    }
+                },
+                "time": {
+                    "real": {
+                        "departure": 1710167280
+                    }
+                }
+            }
+        ]
+    },
+    "ems": null,
+    "availability": [
+        "AGE",
+        "MSN"
+    ],
+    "time": {
+        "scheduled": {
+            "departure": 1710301200,
+            "arrival": 1710316500
+        },
+        "real": {
+            "departure": 1710302004,
+            "arrival": null
+        },
+        "estimated": {
+            "departure": null,
+            "arrival": 1710315776
+        },
+        "other": {
+            "eta": 1710315776,
+            "updated": 1710304643
+        },
+        "historical": {
+            "flighttime": "13907",
+            "delay": "20"
+        }
+    },
+    "trail": [
+        {
+            "lat": 40.973969,
+            "lng": 93.191101,
+            "alt": 37100,
+            "spd": 449,
+            "ts": 1710304907,
+            "hd": 123
+        },
+        {
+            "lat": 41.04213,
+            "lng": 93.05426,
+            "alt": 37100,
+            "spd": 446,
+            "ts": 1710304847,
+            "hd": 123
+        },
+        {
+            "lat": 41.10997,
+            "lng": 92.917717,
+            "alt": 37100,
+            "spd": 444,
+            "ts": 1710304787,
+            "hd": 123
+        },
+        {
+            "lat": 41.17749,
+            "lng": 92.781311,
+            "alt": 37100,
+            "spd": 443,
+            "ts": 1710304727,
+            "hd": 123
+        },
+        {
+            "lat": 41.244282,
+            "lng": 92.645813,
+            "alt": 37100,
+            "spd": 442,
+            "ts": 1710304667,
+            "hd": 123
+        },
+        {
+            "lat": 41.31744,
+            "lng": 92.496964,
+            "alt": 37100,
+            "spd": 441,
+            "ts": 1710304602,
+            "hd": 122
+        },
+        {
+            "lat": 41.377209,
+            "lng": 92.374359,
+            "alt": 37100,
+            "spd": 441,
+            "ts": 1710304548,
+            "hd": 122
+        },
+        {
+            "lat": 41.515331,
+            "lng": 92.089127,
+            "alt": 37100,
+            "spd": 442,
+            "ts": 1710304423,
+            "hd": 123
+        },
+        {
+            "lat": 41.5812,
+            "lng": 91.952438,
+            "alt": 37100,
+            "spd": 442,
+            "ts": 1710304363,
+            "hd": 123
+        },
+        {
+            "lat": 41.64838,
+            "lng": 91.815552,
+            "alt": 37100,
+            "spd": 441,
+            "ts": 1710304303,
+            "hd": 125
+        },
+        {
+            "lat": 41.718292,
+            "lng": 91.681595,
+            "alt": 37100,
+            "spd": 441,
+            "ts": 1710304243,
+            "hd": 125
+        },
+        {
+            "lat": 41.85173,
+            "lng": 91.42485,
+            "alt": 37100,
+            "spd": 438,
+            "ts": 1710304128,
+            "hd": 125
+        },
+        {
+            "lat": 42.55917,
+            "lng": 90.051353,
+            "alt": 37100,
+            "spd": 444,
+            "ts": 1710303525,
+            "hd": 125
+        },
+        {
+            "lat": 42.626911,
+            "lng": 89.921219,
+            "alt": 37000,
+            "spd": 437,
+            "ts": 1710303467,
+            "hd": 125
+        },
+        {
+            "lat": 42.771511,
+            "lng": 89.641876,
+            "alt": 35350,
+            "spd": 443,
+            "ts": 1710303344,
+            "hd": 124
+        },
+        {
+            "lat": 42.84016,
+            "lng": 89.508301,
+            "alt": 34425,
+            "spd": 444,
+            "ts": 1710303285,
+            "hd": 124
+        },
+        {
+            "lat": 42.911179,
+            "lng": 89.369499,
+            "alt": 33450,
+            "spd": 444,
+            "ts": 1710303225,
+            "hd": 124
+        },
+        {
+            "lat": 43.050201,
+            "lng": 89.08992,
+            "alt": 30875,
+            "spd": 448,
+            "ts": 1710303105,
+            "hd": 120
+        },
+        {
+            "lat": 43.411732,
+            "lng": 88.258926,
+            "alt": 23100,
+            "spd": 392,
+            "ts": 1710302745,
+            "hd": 120
+        },
+        {
+            "lat": 43.760311,
+            "lng": 87.571373,
+            "alt": 11450,
+            "spd": 324,
+            "ts": 1710302385,
+            "hd": 127
+        },
+        {
+            "lat": 43.794201,
+            "lng": 87.467331,
+            "alt": 10400,
+            "spd": 264,
+            "ts": 1710302325,
+            "hd": 108
+        },
+        {
+            "lat": 43.814899,
+            "lng": 87.37944,
+            "alt": 8650,
+            "spd": 219,
+            "ts": 1710302265,
+            "hd": 107
+        }
+    ],
+    "firstTimestamp": 1710302265,
+    "s": "cOqvJAhQVx_Lkw8wVLX1F2IZwEH0nKi6bRdSBWHLicfE_TCPx8WDrdwhhj2cb3v6"
+}
