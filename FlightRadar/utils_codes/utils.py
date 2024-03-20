@@ -82,7 +82,8 @@ def save_brief_fight_data(data):
     dt_day, dt_hour = dt.split(' ')
     print(dt_day, dt_hour)
 
-    save_folder = os.path.join('data', dt_day, dt_hour[:2])
+    save_folder = os.path.join('data', dt_day)
+    # save_folder = os.path.join('data', dt_day, dt_hour[:2])
     if not os.path.exists(save_folder):
         os.makedirs(save_folder)
 
@@ -108,7 +109,11 @@ def access_detail_flight_by_airline(airline_li, time_sleep=0.1):
             time.sleep(time_sleep)
             flight_info = fr_api.get_flight_details(flight)
 
-            save_path = os.path.join('data', dt_day, dt_hour[:2],
+            save_folder = os.path.join('data', dt_day, dt_hour[:2])
+            if not os.path.exists(save_folder):
+                os.makedirs(save_folder)
+
+            save_path = os.path.join(save_folder,
                                      'airflight_{0}_{1}.json'.format(flight.callsign, datetime.datetime.now().strftime('%Y-%m-%d %H-%M-%S')))
             with open(save_path, 'w', encoding='utf-8') as f:
                 json.dump(flight_info, f, ensure_ascii=False, indent=4)
