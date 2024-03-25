@@ -76,19 +76,23 @@ def access_brief_flight_by_airline(airline_li, time_sleep=0.1):
 
     return data
 # -----------------------------------------------------------
-def save_brief_fight_data(data):
+def save_brief_fight_data(data, save_folder=None):
 
     dt = datetime.datetime.now().strftime('%Y-%m-%d %H-%M-%S')
     dt_day, dt_hour = dt.split(' ')
     print(dt_day, dt_hour)
-
-    save_folder = os.path.join('data', dt_day)
-    # save_folder = os.path.join('data', dt_day, dt_hour[:2])
+    
+    if save_folder is None:
+        save_folder = os.getcwd()
+    
+    save_folder = os.path.join(save_folder, dt_day)
+    
     if not os.path.exists(save_folder):
         os.makedirs(save_folder)
 
     save_path = os.path.join(save_folder, 'airline_cn_{0}.csv'.format(dt))
     data.to_csv(save_path, index=False)
+    
     return None
 # -----------------------------------------------------------
 def access_detail_flight_by_airline(airline_li, time_sleep=0.1):

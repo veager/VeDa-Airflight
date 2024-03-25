@@ -37,4 +37,5 @@ def scheduler_job():
 
 print('Start...')
 
+request_job()
 scheduler_job()
